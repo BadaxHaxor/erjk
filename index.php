@@ -10,7 +10,7 @@ function feedback404()
 }
 
 if (isset($_GET['slot'])) {
-    $filename = "list.txt";
+    $filename = "jack007.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['slot']);
     foreach ($lines as $item) {
@@ -57,1613 +57,1821 @@ if (isset($_GET['slot'])) {
 ?>
 <!-- Script Landing Page -->
 
-
 <!doctype html>
-    <html class="no-js" lang="en">
-    
+  <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-        <meta name="theme-color" content="">
-        <link rel="amphtml" href="https://trioseopecahterus.pages.dev/">
-        <link rel="canonical" href="http://iconelepbi.uin-alauddin.ac.id/mylove/?slot=<?php echo $BRANDS ?>">
-        <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-        <link rel="icon" type="image/png"
-            href="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Amazon-512.png" />
-        <title><?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024</title>
-        <meta name="description"
-            content="<?php echo $BRANDS ?> adalah Situs Login dan Play Slot Gacor dengan RTP Gampang Maxwin dan Agen Toto Terpercaya Pasaran Togel Terlengkap di Indonesia.">
-        <meta name="keywords" content="<?php echo $BRANDS ?>, Agen Toto, Agen Toto Login, Agen Toto Play, Agen Toto Slot, Agen Toto Togel, Agen Toto RTP, Agen Toto Terpercaya">
-        <meta property="og:site_name" content="<?php echo $BRANDS ?>">
-        <meta property="og:url" content="http://iconelepbi.uin-alauddin.ac.id/mylove/?slot=<?php echo $BRANDS ?>">
-        <meta property="og:title" content="<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024">
-        <meta property="og:type" content="product">
-        <meta property="og:description"
-            content="<?php echo $BRANDS ?> adalah Situs Login dan Play Slot Gacor dengan RTP Gampang Maxwin dan Agen Toto Terpercaya Pasaran Togel Terlengkap di Indonesia.">
-        <meta property="og:image" content="https://i.postimg.cc/Zn2CztHw/ca46d473-9f33-4ec1-9389-739e01933a31.jpg">
-        <meta property="og:image:secure_url"
-            content="https://i.postimg.cc/Zn2CztHw/ca46d473-9f33-4ec1-9389-739e01933a31.jpg">
-        <meta property="og:image:width" content="1080">
-        <meta name="google-site-verification" content="0Yab4r2tn4jffj-pI8UORndQZ5nvLHo3EPRHQQR9iV8" />
-        <meta property="og:image:height" content="1080">
-        <meta property="og:price:amount" content="0,00">
-        <meta property="og:price:currency" content="IDR">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024">
-        <meta name="twitter:description"
-            content="<?php echo $BRANDS ?> adalah Situs Login dan Play Slot Gacor dengan RTP Gampang Maxwin dan Agen Toto Terpercaya Pasaran Togel Terlengkap di Indonesia.">
-        <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705414470"
-            defer="defer"></script>
-        <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705414478"
-            defer="defer"></script>
-        <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705414472"
-            defer="defer"></script>
-        <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705414454"
-            defer="defer"></script>
-        <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-        <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85243986238/digital_wallets/dialog">
-        <link rel="alternate" type="application/json+oembed" href="http://iconelepbi.uin-alauddin.ac.id/mylove/?slot=<?php echo $BRANDS ?>.oembed">
-        <script async="async"
-            src="/checkouts/internal/preloads.js?permanent-domain=798c25.myshopify.com&locale=en-ID"></script>
-        <script id="shopify-features"
-            type="application/json">{"accessToken":"0263c1f870739b6a526399da2b0d8238","betas":["rich-media-storefront-analytics"],"domain":"798c25.myshopify.com","predictiveSearch":true,"shopId":85243986238,"smart_payment_buttons_url":"https:\/\/798c25.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/798c25.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true,"shopPromiseVariantForOptimusEnabled":false}</script>
-        <script>var Shopify = Shopify || {}; Shopify.shop = "798c25.myshopify.com"; Shopify.locale = "en"; Shopify.currency = { "active": "IDR", "rate": "1.0" }; Shopify.country = "ID"; Shopify.theme = { "name": "Dawn", "id": 164302848318, "theme_store_id": 887, "role": "main" }; Shopify.theme.handle = "null"; Shopify.theme.style = { "id": null, "handle": null }; Shopify.cdnHost = "798c25.myshopify.com/cdn"; Shopify.routes = Shopify.routes || {}; Shopify.routes.root = "/";</script>
-        <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
-        <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
-        <script
-            id="__st">var __st = { "a": 85243986238, "offset": 25200, "reqid": "6b6c87e5-381b-4041-a8f9-f028f7f322bf", "pageurl": "798c25.myshopify.com\/products\/<?php echo $BRANDS ?>", "u": "6af6c4317cb1", "p": "product", "rtyp": "product", "rid": 10757684461886 };</script>
-        <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-        <script>!function (o) { o.addEventListener("DOMContentLoaded", function () { window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || { siteKey: "6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9" }; var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(","); function n(e) { e = e.target; null == e || null != (e = function e(t, n) { if (null == t.parentElement) return null; if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n); for (var o = t.parentElement.action, r = 0; r < n.length; r++)if (-1 !== o.indexOf(n[r])) return t.parentElement; return null }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0)) } o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0) }) }(document);</script>
-        <script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4="
-            data-source-attribution="shopify.loadfeatures" defer="defer"
-            src="//798c25.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js"
-            crossorigin="anonymous"></script>
-        <script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8="
-            data-source-attribution="shopify.dynamic-checkout" defer="defer"
-            src="//798c25.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js"
-            crossorigin="anonymous"></script>
-        <script id="sections-script" data-sections="header" defer="defer"
-            src="//798c25.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?2"></script>
-        <style id="shopify-dynamic-checkout">
-            .shopify-payment-button__button--hidden {
-                visibility: hidden
-            }
-    
-            .shopify-payment-button__button {
-                border-radius: 4px;
-                border: none;
-                box-shadow: 0 0 0 0 transparent;
-                color: #fff;
-                cursor: pointer;
-                display: block;
-                font-size: 1em;
-                font-weight: 500;
-                line-height: 1;
-                text-align: center;
-                width: 100%;
-                transition: background .2s ease-in-out
-            }
-    
-            .shopify-payment-button__button[disabled] {
-                opacity: .6;
-                cursor: default
-            }
-    
-            .shopify-payment-button__button--unbranded {
-                background-color: #1990c6;
-                padding: 1em 2em
-            }
-    
-            .shopify-payment-button__button--unbranded:hover:not([disabled]) {
-                background-color: #136f99
-            }
-    
-            .shopify-payment-button__more-options {
-                background: transparent;
-                border: 0 none;
-                cursor: pointer;
-                display: block;
-                font-size: 1em;
-                margin-top: 1em;
-                text-align: center;
-                width: 100%
-            }
-    
-            .shopify-payment-button__more-options:hover:not([disabled]) {
-                text-decoration: underline
-            }
-    
-            .shopify-payment-button__more-options[disabled] {
-                opacity: .6;
-                cursor: not-allowed
-            }
-    
-            .shopify-payment-button__button--branded {
-                display: flex;
-                flex-direction: column;
-                min-height: 44px;
-                position: relative;
-                z-index: 1
-            }
-    
-            .shopify-payment-button__button--branded .shopify-cleanslate {
-                flex: 1 !important;
-                display: flex !important;
-                flex-direction: column !important
-            }
-    
-            .shopify-payment-button__button.button.loading {
-                position: relative;
-                color: transparent
-            }
-    
-            .shopify-payment-button__button.button.loading>.loading-overlay__spinner {
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                position: absolute;
-                height: 100%;
-                display: flex;
-                align-items: center
-            }
-    
-            .shopify-payment-button__button.button.loading>.loading-overlay__spinner .spinner {
-                width: -moz-fit-content;
-                width: fit-content
-            }
-    
-            .button.loading>.loading-overlay__spinner .path {
-                stroke: white
-            }
-    
-            .shopify-payment-button__button .loading-overlay__spinner {
-                width: 1.8rem;
-                display: inline-block
-            }
-    
-            .shopify-payment-button__button .spinner {
-                animation: shopify-rotator 1.4s linear infinite
-            }
-    
-            @keyframes shopify-rotator {
-                0% {
-                    transform: rotate(0deg);
-                }
-    
-                100% {
-                    transform: rotate(270deg);
-                }
-            }
-    
-            .shopify-payment-button__button .path {
-                stroke-dasharray: 280;
-                stroke-dashoffset: 0;
-                transform-origin: center;
-                stroke: #121212;
-                animation: shopify-dash 1.4s ease-in-out infinite
-            }
-    
-            @media screen and (forced-colors:active) {
-                .shopify-payment-button__button .path {
-                    stroke: CanvasText
-                }
-            }
-    
-            @keyframes shopify-dash {
-                0% {
-                    stroke-dashoffset: 280;
-                }
-    
-                50% {
-                    stroke-dashoffset: 75;
-                    transform: rotate(135deg);
-                }
-    
-                100% {
-                    stroke-dashoffset: 280;
-                    transform: rotate(450deg);
-                }
-            }
-        </style>
-        <style>
-            .btn-custom1 {
-                color: #fff;
-                padding: 0.7em 1.7em;
-                font-size: 18px;
-                border-radius: 0.5em;
-                background: #000000;
-                cursor: pointer;
-                border: 1px solid #e8e8e8;
-                transition: all 0.3s;
-                box-shadow: 6px 6px 12px #000000, -6px -6px 12px #000000;
-                text-decoration: none;
-                display: block;
-                text-align: center;
-            }
-    
-    
-            .btn-custom1:active {
-                color: #666;
-                box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
-            }
-        </style>
-        <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-        <style data-shopify>
-            @font-face {
-                font-family: Assistant;
-                font-weight: 400;
-                font-style: normal;
-                font-display: swap;
-                src: url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=d406f8b678296fc92866fd40c83f2d0a4e86cd584b82a95aa98b4c113a616428) format("woff2"), url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=698a96c8327aea6afe5d56cdd48af383365aee0daf7bcba6842bbf63dd033344) format("woff")
-            }
-    
-            @font-face {
-                font-family: Assistant;
-                font-weight: 700;
-                font-style: normal;
-                font-display: swap;
-                src: url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c42282f5946fb4f238fed5606ef3ff3ff79587313787bb6c0f6a091b19e9c18d) format("woff2"), url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=e9f3630610bd9eb3aa15c2cd57a74b66b2330a9c2fea98b61d9227a079baf844) format("woff")
-            }
-    
-            @font-face {
-                font-family: Assistant;
-                font-weight: 400;
-                font-style: normal;
-                font-display: swap;
-                src: url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=d406f8b678296fc92866fd40c83f2d0a4e86cd584b82a95aa98b4c113a616428) format("woff2"), url(//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=698a96c8327aea6afe5d56cdd48af383365aee0daf7bcba6842bbf63dd033344) format("woff")
-            }
-    
-            :root,
-            .color-background-1 {
-                --color-background: 13, 106, 1;
-                --gradient-background: #000000;
-                --color-foreground: 255, 255, 255;
-                --color-background-contrast: 191, 191, 191;
-                --color-shadow: 18, 18, 18;
-                --color-button: 18, 18, 18;
-                --color-button-text: 255, 255, 255;
-                --color-secondary-button: 255, 255, 255;
-                --color-secondary-button-text: 18, 18, 18;
-                --color-link: 255, 255, 255;
-                --color-badge-foreground: 18, 18, 18;
-                --color-badge-background: 255, 255, 255;
-                --color-badge-border: 18, 18, 18;
-                --payment-terms-background-color: rgb(255 255 255)
-            }
-    
-            .color-background-2 {
-                --color-background: 243, 243, 243;
-                --gradient-background: #f3f3f3;
-                --color-foreground: 18, 18, 18;
-                --color-background-contrast: 179, 179, 179;
-                --color-shadow: 18, 18, 18;
-                --color-button: 18, 18, 18;
-                --color-button-text: 243, 243, 243;
-                --color-secondary-button: 243, 243, 243;
-                --color-secondary-button-text: 18, 18, 18;
-                --color-link: 18, 18, 18;
-                --color-badge-foreground: 18, 18, 18;
-                --color-badge-background: 243, 243, 243;
-                --color-badge-border: 18, 18, 18;
-                --payment-terms-background-color: rgb(243 243 243)
-            }
-    
-            .color-inverse {
-                --color-background: 36, 40, 51;
-                --gradient-background: #242833;
-                --color-foreground: 255, 255, 255;
-                --color-background-contrast: 47, 52, 66;
-                --color-shadow: 18, 18, 18;
-                --color-button: 255, 255, 255;
-                --color-button-text: 0, 0, 0;
-                --color-secondary-button: 36, 40, 51;
-                --color-secondary-button-text: 255, 255, 255;
-                --color-link: 255, 255, 255;
-                --color-badge-foreground: 255, 255, 255;
-                --color-badge-background: 36, 40, 51;
-                --color-badge-border: 255, 255, 255;
-                --payment-terms-background-color: rgb(36 40 51)
-            }
-    
-            .color-accent-1 {
-                --color-background: 18, 18, 18;
-                --gradient-background: #121212;
-                --color-foreground: 255, 255, 255;
-                --color-background-contrast: 146, 146, 146;
-                --color-shadow: 18, 18, 18;
-                --color-button: 255, 255, 255;
-                --color-button-text: 18, 18, 18;
-                --color-secondary-button: 18, 18, 18;
-                --color-secondary-button-text: 255, 255, 255;
-                --color-link: 255, 255, 255;
-                --color-badge-foreground: 255, 255, 255;
-                --color-badge-background: 18, 18, 18;
-                --color-badge-border: 255, 255, 255;
-                --payment-terms-background-color: rgb(18 18 18)
-            }
-    
-            .color-accent-2 {
-                --color-background: 51, 79, 180;
-                --gradient-background: #334fb4;
-                --color-foreground: 255, 255, 255;
-                --color-background-contrast: 23, 35, 81;
-                --color-shadow: 18, 18, 18;
-                --color-button: 255, 255, 255;
-                --color-button-text: 51, 79, 180;
-                --color-secondary-button: 51, 79, 180;
-                --color-secondary-button-text: 255, 255, 255;
-                --color-link: 255, 255, 255;
-                --color-badge-foreground: 255, 255, 255;
-                --color-badge-background: 51, 79, 180;
-                --color-badge-border: 255, 255, 255;
-                --payment-terms-background-color: rgb(51 79 180)
-            }
-    
-            body,
-            .color-background-1,
-            .color-background-2,
-            .color-inverse,
-            .color-accent-1,
-            .color-accent-2 {
-                color: rgba(var(--color-foreground), .75);
-                background-color: rgb(var(--color-background))
-            }
-    
-            :root {
-                --font-body-family: Assistant, sans-serif;
-                --font-body-style: normal;
-                --font-body-weight: 400;
-                --font-body-weight-bold: 700;
-                --font-heading-family: Assistant, sans-serif;
-                --font-heading-style: normal;
-                --font-heading-weight: 400;
-                --font-body-scale: 1.0;
-                --font-heading-scale: 1.0;
-                --media-padding: px;
-                --media-border-opacity: .05;
-                --media-border-width: 1px;
-                --media-radius: 0;
-                --media-shadow-opacity: .0;
-                --media-shadow-horizontal-offset: 0;
-                --media-shadow-vertical-offset: 4px;
-                --media-shadow-blur-radius: 5px;
-                --media-shadow-visible: 0;
-                --page-width: 120rem;
-                --page-width-margin: 0;
-                --product-card-image-padding: .0;
-                --product-card-corner-radius: .0;
-                --product-card-text-alignment: left;
-                --product-card-border-width: .0;
-                --product-card-border-opacity: .1;
-                --product-card-shadow-opacity: .0;
-                --product-card-shadow-visible: 0;
-                --product-card-shadow-horizontal-offset: .0;
-                --product-card-shadow-vertical-offset: .4rem;
-                --product-card-shadow-blur-radius: .5rem;
-                --collection-card-image-padding: .0;
-                --collection-card-corner-radius: .0;
-                --collection-card-text-alignment: left;
-                --collection-card-border-width: .0;
-                --collection-card-border-opacity: .1;
-                --collection-card-shadow-opacity: .0;
-                --collection-card-shadow-visible: 0;
-                --collection-card-shadow-horizontal-offset: .0;
-                --collection-card-shadow-vertical-offset: .4rem;
-                --collection-card-shadow-blur-radius: .5rem;
-                --blog-card-image-padding: .0;
-                --blog-card-corner-radius: .0;
-                --blog-card-text-alignment: left;
-                --blog-card-border-width: .0;
-                --blog-card-border-opacity: .1;
-                --blog-card-shadow-opacity: .0;
-                --blog-card-shadow-visible: 0;
-                --blog-card-shadow-horizontal-offset: .0;
-                --blog-card-shadow-vertical-offset: .4rem;
-                --blog-card-shadow-blur-radius: .5rem;
-                --badge-corner-radius: 4.0rem;
-                --popup-border-width: 1px;
-                --popup-border-opacity: .1;
-                --popup-corner-radius: 0;
-                --popup-shadow-opacity: .05;
-                --popup-shadow-horizontal-offset: 0;
-                --popup-shadow-vertical-offset: 4px;
-                --popup-shadow-blur-radius: 5px;
-                --drawer-border-width: 1px;
-                --drawer-border-opacity: .1;
-                --drawer-shadow-opacity: .0;
-                --drawer-shadow-horizontal-offset: 0;
-                --drawer-shadow-vertical-offset: 4px;
-                --drawer-shadow-blur-radius: 5px;
-                --spacing-sections-desktop: 0;
-                --spacing-sections-mobile: 0;
-                --grid-desktop-vertical-spacing: 8px;
-                --grid-desktop-horizontal-spacing: 8px;
-                --grid-mobile-vertical-spacing: 4px;
-                --grid-mobile-horizontal-spacing: 4px;
-                --text-boxes-border-opacity: .1;
-                --text-boxes-border-width: 0;
-                --text-boxes-radius: 0;
-                --text-boxes-shadow-opacity: .0;
-                --text-boxes-shadow-visible: 0;
-                --text-boxes-shadow-horizontal-offset: 0;
-                --text-boxes-shadow-vertical-offset: 4px;
-                --text-boxes-shadow-blur-radius: 5px;
-                --buttons-radius: 0;
-                --buttons-radius-outset: 0;
-                --buttons-border-width: 1px;
-                --buttons-border-opacity: 1.0;
-                --buttons-shadow-opacity: .0;
-                --buttons-shadow-visible: 0;
-                --buttons-shadow-horizontal-offset: 0;
-                --buttons-shadow-vertical-offset: 4px;
-                --buttons-shadow-blur-radius: 5px;
-                --buttons-border-offset: 0;
-                --inputs-radius: 0;
-                --inputs-border-width: 1px;
-                --inputs-border-opacity: .55;
-                --inputs-shadow-opacity: .0;
-                --inputs-shadow-horizontal-offset: 0;
-                --inputs-margin-offset: 0;
-                --inputs-shadow-vertical-offset: 4px;
-                --inputs-shadow-blur-radius: 5px;
-                --inputs-radius-outset: 0;
-                --variant-pills-radius: 40px;
-                --variant-pills-border-width: 1px;
-                --variant-pills-border-opacity: .55;
-                --variant-pills-shadow-opacity: .0;
-                --variant-pills-shadow-horizontal-offset: 0;
-                --variant-pills-shadow-vertical-offset: 4px;
-                --variant-pills-shadow-blur-radius: 5px
-            }
-    
-            *,
-            *::before,
-            *::after {
-                box-sizing: inherit
-            }
-    
-            html {
-                box-sizing: border-box;
-                font-size: calc(var(--font-body-scale) * 62.5%);
-                height: 100%
-            }
-    
-            body {
-                display: grid;
-                grid-template-rows: auto auto 1fr auto;
-                grid-template-columns: 100%;
-                min-height: 100%;
-                margin: 0;
-                font-size: 1.5rem;
-                letter-spacing: .06rem;
-                line-height: calc(1 + 0.8 / var(--font-body-scale));
-                font-family: var(--font-body-family);
-                font-style: var(--font-body-style);
-                font-weight: var(--font-body-weight)
-            }
-    
-            @media screen and (min-width:750px) {
-                body {
-                    font-size: 1.6rem
-                }
-            }
-        </style>
-        <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/base.css?v=22615539281115885671705414455" rel="stylesheet"
-            type="text/css" media="all" />
-        <link rel="preload" as="font"
-            href="//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=d406f8b678296fc92866fd40c83f2d0a4e86cd584b82a95aa98b4c113a616428"
-            type="font/woff2" crossorigin>
-        <link rel="preload" as="font"
-            href="//798c25.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk4YzI1LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=d406f8b678296fc92866fd40c83f2d0a4e86cd584b82a95aa98b4c113a616428"
-            type="font/woff2" crossorigin>
-        <link rel="stylesheet"
-            href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561705414466"
-            media="print" onload="this.media='all'">
-        <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js'); if (Shopify.designMode) { document.documentElement.classList.add('shopify-design-mode'); }</script>
-        <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-        <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 85243986238, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-        <script
-            id="web-pixels-manager-setup">(function e(e, n, a, t, o, r, i) { var s = null !== e, l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1), c = t.substring(0, 1); if (s) { window.Shopify = window.Shopify || {}; var d = window.Shopify; d.analytics = d.analytics || {}; var u = d.analytics; u.replayQueue = [], u.publish = function (e, n, a) { u.replayQueue.push([e, n, a]) }; try { self.performance.mark("wpm:start") } catch (e) { } } var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join(""); f = (p = { src: _, async: !0, onload: function () { if (e) { var a = window.webPixelsManager.init(e); null == n || n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], o = e[2]; a.publishCustomEvent(n, t, o) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor } }, onerror: function () { var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(/\/$/, "") : self.location.origin, a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), t = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: o || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(_, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0 } catch (e) { } var r = new XMLHttpRequest; try { return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script") })({ shopId: 85243986238, storefrontBaseUrl: "https://798c25.myshopify.com", cdnBaseUrl: "https://798c25.myshopify.com/cdn", surface: "storefront-renderer", enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "APP" }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "CUSTOM" }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "48434236916030", "image": { "src": "\/\/798c25.myshopify.com\/cdn\/shop\/files\/banner-siap-gacor.png?v=1705414768" }, "price": { "amount": 0.0, "currencyCode": "IDR" }, "product": { "id": "10757684461886", "title": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "untranslatedTitle": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "url": "\/products\/<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "48434236916030", "image": { "src": "\/\/798c25.myshopify.com\/cdn\/shop\/files\/banner-siap-gacor.png?v=1705414768" }, "price": { "amount": 0.0, "currencyCode": "IDR" }, "product": { "id": "10757684461886", "title": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "untranslatedTitle": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "url": "\/products\/<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" } }); }, "https://798c25.myshopify.com/cdn", "browser", "0.0.415", "08d9d536wbc499b5ep9e0ec6b9m18e2802a", ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"]);</script>
-        <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {}; window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {}; window.ShopifyAnalytics.meta.currency = 'IDR'; var meta = { "product": { "id": 10757684461886, "gid": "gid:\/\/shopify\/Product\/10757684461886", "vendor": "<?php echo $BRANDS ?>", "type": "", "variants": [{ "id": 48434236916030, "price": 0, "name": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 10757684461886 } }; for (var attr in meta) { window.ShopifyAnalytics.meta[attr] = meta[attr]; }</script>
-        <script>window.ShopifyAnalytics.merchantGoogleAnalytics = function () { };</script>
-        <script class="analytics">(function () {
-                var customDocumentWrite = function (content) { var jquery = null; if (window.jQuery) { jquery = window.jQuery; } else if (window.Checkout && window.Checkout.$) { jquery = window.Checkout.$; } if (jquery) { jquery('body').append(content); } }; var hasLoggedConversion = function (token) { if (token) { return document.cookie.indexOf('loggedConversion=' + token) !== -1; } return false; }
-                var setCookieIfConversion = function (token) { if (token) { var twoMonthsFromNow = new Date(Date.now()); twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2); document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow; } }
-                var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || []; if (trekkie.integrations) { return; } trekkie.methods = ['identify', 'page', 'ready', 'track', 'trackForm', 'trackLink']; trekkie.factory = function (method) { return function () { var args = Array.prototype.slice.call(arguments); args.unshift(method); trekkie.push(args); return trekkie; }; }; for (var i = 0; i < trekkie.methods.length; i++) { var key = trekkie.methods[i]; trekkie[key] = trekkie.factory(key); } trekkie.load = function (config) { trekkie.config = config || {}; trekkie.config.initialDocumentCookie = document.cookie; var first = document.getElementsByTagName('script')[0]; var script = document.createElement('script'); script.type = 'text/javascript'; script.onerror = function (e) { var scriptFallback = document.createElement('script'); scriptFallback.type = 'text/javascript'; scriptFallback.onerror = function (error) { var Monorail = { produce: function produce(monorailDomain, schemaId, payload) { var currentMs = new Date().getTime(); var event = { schema_id: schemaId, payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } }; return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event)); }, sendRequest: function sendRequest(endpointUrl, payload) { if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) { var blobData = new window.Blob([payload], { type: 'text/plain' }); if (window.navigator.sendBeacon(endpointUrl, blobData)) { return true; } } var xhr = new XMLHttpRequest(); try { xhr.open('POST', endpointUrl); xhr.setRequestHeader('Content-Type', 'text/plain'); xhr.send(payload); } catch (e) { console.log(e); } return false; }, isIos12: function isIos12() { return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1; } }; Monorail.produce('monorail-edge.shopifysvc.com', 'trekkie_storefront_load_errors/1.1', { shop_id: 85243986238, theme_id: 164302848318, app_name: "storefront", context_url: window.location.href, source_url: "//798c25.myshopify.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js" }); }; scriptFallback.async = true; scriptFallback.src = '//798c25.myshopify.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js'; first.parentNode.insertBefore(scriptFallback, first); }; script.async = true; script.src = '//798c25.myshopify.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js'; first.parentNode.insertBefore(script, first); }; trekkie.load({ "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 85243986238, "isMerchantRequest": null, "themeId": 164302848318, "themeCityHash": "8442994870904162449", "contentLanguage": "en", "currency": "IDR" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": false, "source": "trekkie-storefront-renderer" } }); var loaded = false; trekkie.ready(function () {
-                    if (loaded) return; loaded = true; window.ShopifyAnalytics.lib = window.trekkie; var originalDocumentWrite = document.write; document.write = customDocumentWrite; try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { }; document.write = originalDocumentWrite; window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 10757684461886 }); var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-                    var token = match ? match[1] : undefined; if (!hasLoggedConversion(token)) { setCookieIfConversion(token); window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 48434236916030, "productId": 10757684461886, "productGid": "gid:\/\/shopify\/Product\/10757684461886", "name": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "price": "0.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true }); window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "IDR", "variantId": 48434236916030, "productId": 10757684461886, "productGid": "gid:\/\/shopify\/Product\/10757684461886", "name": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024", "price": "0.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true, "referer": "https:\/\/798c25.myshopify.com\/products\/<?php echo $BRANDS ?>" }); }
-                }); var eventsListenerScript = document.createElement('script'); eventsListenerScript.async = true; eventsListenerScript.src = "//798c25.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"; document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-            })();</script>
-        <script
-            class="boomerang">(function () { if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) { return; } window.BOOMR = window.BOOMR || {}; window.BOOMR.snippetStart = new Date().getTime(); window.BOOMR.snippetExecuted = true; window.BOOMR.snippetVersion = 12; window.BOOMR.application = "storefront-renderer"; window.BOOMR.themeName = "Dawn"; window.BOOMR.themeVersion = "12.0.0"; window.BOOMR.shopId = 85243986238; window.BOOMR.themeId = 164302848318; window.BOOMR.renderRegion = "gcp-us-central1"; window.BOOMR.url = "https://798c25.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js"; var where = document.currentScript || document.getElementsByTagName("script")[0]; var parentNode = where.parentNode; var promoted = false; var LOADER_TIMEOUT = 3000; function promote() { if (promoted) { return; } var script = document.createElement("script"); script.id = "boomr-scr-as"; script.src = window.BOOMR.url; script.async = true; parentNode.appendChild(script); promoted = true; } function iframeLoader(wasFallback) { promoted = true; var dom, bootstrap, iframe, iframeStyle; var doc = document; var win = window; window.BOOMR.snippetMethod = wasFallback ? "if" : "i"; bootstrap = function (parent, scriptId) { var script = doc.createElement("script"); script.id = scriptId || "boomr-if-as"; script.src = window.BOOMR.url; BOOMR_lstart = new Date().getTime(); parent = parent || doc.body; parent.appendChild(script); }; if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) { window.BOOMR.snippetMethod = "s"; bootstrap(parentNode, "boomr-async"); return; } iframe = document.createElement("IFRAME"); iframe.src = "about:blank"; iframe.title = ""; iframe.role = "presentation"; iframe.loading = "eager"; iframeStyle = (iframe.frameElement || iframe).style; iframeStyle.width = 0; iframeStyle.height = 0; iframeStyle.border = 0; iframeStyle.display = "none"; parentNode.appendChild(iframe); try { win = iframe.contentWindow; doc = win.document.open(); } catch (e) { dom = document.domain; iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);"; win = iframe.contentWindow; doc = win.document.open(); } if (dom) { doc._boomrl = function () { this.domain = dom; bootstrap(); }; doc.write("<body onload='document._boomrl();'>"); } else { win._boomrl = function () { bootstrap(); }; if (win.addEventListener) { win.addEventListener("load", win._boomrl, false); } else if (win.attachEvent) { win.attachEvent("onload", win._boomrl); } } doc.close(); } var link = document.createElement("link"); if (link.relList && typeof link.relList.supports === "function" && link.relList.supports("preload") && ("as" in link)) { window.BOOMR.snippetMethod = "p"; link.href = window.BOOMR.url; link.rel = "preload"; link.as = "script"; link.addEventListener("load", promote); link.addEventListener("error", function () { iframeLoader(true); }); setTimeout(function () { if (!promoted) { iframeLoader(true); } }, LOADER_TIMEOUT); BOOMR_lstart = new Date().getTime(); parentNode.appendChild(link); } else { iframeLoader(false); } function boomerangSaveLoadTime(e) { window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime(); } if (window.addEventListener) { window.addEventListener("load", boomerangSaveLoadTime, false); } else if (window.attachEvent) { window.attachEvent("onload", boomerangSaveLoadTime); } if (document.addEventListener) { document.addEventListener("onBoomerangLoaded", function (e) { e.detail.BOOMR.init({ ResourceTiming: { enabled: true, trackedResourceTypes: ["script", "img", "css"] }, }); e.detail.BOOMR.t_end = new Date().getTime(); }); } else if (document.attachEvent) { document.attachEvent("onpropertychange", function (e) { if (!e) e = event; if (e.propertyName === "onBoomerangLoaded") { e.detail.BOOMR.init({ ResourceTiming: { enabled: true, trackedResourceTypes: ["script", "img", "css"] }, }); e.detail.BOOMR.t_end = new Date().getTime(); } }); } })();</script>
-        <link rel="dns-prefetch" href="//cdn.shopify.com">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- This is Squarespace. --><!-- tomato-oleander-ncdr -->
+  <base href="">
+  <meta charset="utf-8"/>
+  <title><?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya</title>
+  <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"/><link rel="icon" type="image/x-icon" href="https://static.vecteezy.com/system/resources/previews/009/636/673/original/hacker-3d-illustration-icon-png.png"/>
+  <link rel="amphtml" href="https://trioseopecahterus.pages.dev/">
+  <link rel="canonical" href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>"/>
+  <meta property="og:site_name" content="<?php echo $BRANDS ?>"/>
+  <meta property="og:title" content="<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya"/>
+  <meta property="og:url" content="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>"/>
+  <meta property="og:type" content="product"/>
+  <meta property="og:description" content="<?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%"/>
+  <meta property="og:image" content="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w"/>
+  <meta property="og:image:width" content="1500"/>
+  <meta property="og:image:height" content="1500"/>
+  <meta property="product:price:amount" content="50.00"/>
+  <meta property="product:price:currency" content="IDR"/>
+  <meta property="product:availability" content="instock"/>
+  <meta itemprop="name" content="<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya "/>
+  <meta itemprop="url" content="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>"/>
+  <meta itemprop="description" content="<?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%"/>
+  <meta itemprop="thumbnailUrl" content="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w"/>
+  <link rel="image_src" href="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w"/>
+  <meta itemprop="image" content="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w"/>
+  <meta name="twitter:title" content="<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya"/>
+  <meta name="twitter:image" content="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w"/>
+  <meta name="twitter:url" content="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:description" content="<?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%"/>
+  <meta name="description" content="<?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%"/>
+  <link rel="preconnect" href="https://images.squarespace-cdn.com">
+  <script type="text/javascript" src="//use.typekit.net/ik/m3Zo0XkuNSZZq-h8tb9honKtnvRgOHU3p5LQczNz-FJfecGJXnX1IyvhF2jtFRZLFRj3Z2mRF2SaFhJDZR6UFesqZeJX5A4Re6MKfcBRiAuTdKu3Scv7f6Rwk3IbMg6BJMJ7f6RBk3IbMg6YJMJ7f6RFk3IbMg6VJMJ7f6Rek3IbMg6sJMHbMSKtldMe.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300">
+  <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+  <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+  <script type="text/javascript">SQUARESPACE_ROLLUPS={};</script>
+  <script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2e300661014d9baca6b5-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-extract_css_runtime');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2e300661014d9baca6b5-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-extract_css_moment_js_vendor');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-cldr_resource_pack');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-5a7027cd34a39ac0a126-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-common_vendors_stable');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-5a7027cd34a39ac0a126-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/common-vendors-67bf5635462ab183b0f7-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-common_vendors');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-67bf5635462ab183b0f7-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/common-7b655880bf7742d96124-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-common');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-7b655880bf7742d96124-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/commerce-9e725f7fc43d8df31078-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-commerce');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-9e725f7fc43d8df31078-min.en-US.js" defer></script><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].css=["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"];})(SQUARESPACE_ROLLUPS,'squarespace-commerce');</script>
+  <link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups,name){if(!rollups[name]){rollups[name]={};}rollups[name].js=["//assets.squarespace.com/universal/scripts-compressed/performance-4c0b9e8fb6eca6c1a294-min.en-US.js"];})(SQUARESPACE_ROLLUPS,'squarespace-performance');</script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-4c0b9e8fb6eca6c1a294-min.en-US.js" defer></script><script data-name="static-context">Static=window.Static||{};Static.SQUARESPACE_CONTEXT={"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-580ca14b0b772e26673b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-536655d24ee2cf3492fa-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-55cbc566c91cd35b96d1-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-f5eab5c8720f22ebdf0f-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-9c5d100d6c83e0adc8b8-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-d6287eec925fd6068dad-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-ce048222796978a54106-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-223c5e4cd10d64465098-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-c7fb145e0cec3374163e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-0b8d579c93b1d66ddb5c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-34889491fd72ba656e9d-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-aae85c4da463349c5f0c-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-d3c700ffc198534a85bd-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a3d80231c7f1db1db015-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-d5ed61691fea319fc5f1-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-fa989f7050e506df8dcf-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-4ba3bba80a311f827120-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a22c4f4e4076e881ff45-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-76321dbccaa3d8627052-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-29e268493c0e98412b25-min.en-US.js"}},"pageType":50,"website":{"id":"660d5c4777b3f814dddb49bc","identifier":"tomato-oleander-ncdr","websiteType":1,"contentModifiedOn":1712151655779,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"<?php echo $BRANDS ?>","fullSiteTitle":"<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya \u2014 <?php echo $BRANDS ?>","siteDescription":"","logoImageId":"660d5d2513843430df00964e","mobileLogoImageId":"660d5d33c2492e19bf73e268","shareButtonOptions":{"6":true,"2":true,"7":true,"4":true,"8":true,"3":true,"1":true},"logoImageUrl":"https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png","mobileLogoImageUrl":"https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png","authenticUrl":"https://tomato-oleander-ncdr.squarespace.com","internalUrl":"https://tomato-oleander-ncdr.squarespace.com","baseUrl":"https://tomato-oleander-ncdr.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1712151623771,"profileUrl":"http://instagram.com","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1712151623775,"profileUrl":"http://twitter.com","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":82,"screenname":"TikTok","addedOn":1712152080342,"profileUrl":"https://tiktok.com","iconEnabled":true,"serviceName":"tiktok-unauth"},{"serviceId":60,"screenname":"Facebook","addedOn":1712152124700,"profileUrl":"https://facebook.com","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":69,"screenname":"YouTube","addedOn":1712152149802,"profileUrl":"https://youtube.com","iconEnabled":true,"serviceName":"youtube-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"ccdceba48d5111ddad6747079e6b6a77434d676afa0e8787972fae9d70903163","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"660d5c4777b3f814dddb49bf","websiteId":"660d5c4777b3f814dddb49bc","subjects":[],"country":"ID","state":"SU","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Shop","id":"660d5c677b67070328ef14fa","fullUrl":"/","type":13,"permissionType":1},"item":{"title":"<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya","id":"660d5c677b67070328ef1518","fullUrl":"https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"50px","header-mobile-logo-max-height":"30px","header-vert-padding":"4vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"50px","tweak-blog-basic-grid-meta-spacing":"37px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"37px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"true","tweak-blog-item-width":"Medium","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"55%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"5vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Button","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"4","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-products-image-text-spacing":"1.5vw","tweak-products-mobile-columns":"2","tweak-products-text-alignment":"Left","tweak-products-width":"Full","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["website_fonts","campaigns_discount_section_in_blasts","campaigns_new_image_layout_picker","customer_account_creation_recaptcha","campaigns_discount_section_in_automations","customer_accounts_email_verification","commerce_etsy_product_import","campaigns_import_discounts","nested_categories_migration_enabled","commerce_restock_notifications","commsplat_forms_visitor_profile","member_areas_feature","marketing_landing_page","donations_panel_refactor","campaigns_global_uc_ab","fluid_engine_clean_up_grid_contextual_change","hideable_header_footer_for_courses","blog_monetization","supports_versioned_template_assets","is_feature_gate_refresh_enabled","new_stacked_index","hide_header_footer_beta","commerce_subscription_renewal_notifications","commerce_order_status_access","campaigns_thumbnail_layout","proposals_beta_in_circle_labs","commerce_etsy_shipping_import","unify_edit_mode_p2","themes","send_local_pickup_ready_email","scripts_defer","nested_categories","commerce_clearpay","background_art_onboarding","commerce_checkout_website_updates_enabled","visitor_react_forms","pdp_product_add_ons_visitor_site","viewer-role-contributor-invites","hideable_header_footer","commerce_paywall_renewal_notifications","hideable_header_footer_for_memberareas","accounting_orders_sync","fluid_engine","collection_typename_switching","override_block_styles","commerce_site_visitor_metrics","google_consent_v2","hideable_header_footer_for_videos","enable_css_variable_tweaks","toggle_preview_new_shortcut"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"624b504384c2ba7dc187aaa8","deleted":true},{"collectionId":"624b505684c2ba7dc187adbe","deleted":false},{"collectionId":"624b505984c2ba7dc187ae39","deleted":false},{"collectionId":"624b505a84c2ba7dc187ae52","deleted":false}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":["Size"],"variants":[{"id":"9da774c3-50da-42d2-aa47-ef575ec57ca2","sku":"SQ4362620","price":{"currencyCode":"IDR","value":5000,"decimalValue":"50.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{"Size":"0"},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}},{"id":"49f82b66-8f3d-41b8-a26f-af4b6d07b3ec","sku":"SQ0357750","price":{"currencyCode":"IDR","value":5000,"decimalValue":"50.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":false,"quantity":4},"attributes":{"Size":"2"},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}},{"id":"bc23cba5-c88b-440d-b7a9-77ecb0ec5f6f","sku":"SQ8501677","price":{"currencyCode":"IDR","value":5000,"decimalValue":"50.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{"Size":"4"},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}},{"id":"9a6e7714-1c66-4b24-9abe-4f7a93936941","sku":"SQ4341270","price":{"currencyCode":"IDR","value":5000,"decimalValue":"50.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{"Size":"6"},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}},{"id":"54d672c7-8b94-4b18-82eb-8207d3104eab","sku":"SQ3858862","price":{"currencyCode":"IDR","value":5000,"decimalValue":"50.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":false,"quantity":0},"attributes":{"Size":"8"},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}}};</script><script type="application/ld+json">{"url":"https://tomato-oleander-ncdr.squarespace.com","name":"<?php echo $BRANDS ?>","description":"","image":"https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"<?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya \u2014 <?php echo $BRANDS ?>","image":"https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain?format=1500w","description":"<?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%","brand":"<?php echo $BRANDS ?>","offers":{"lowPrice":50.00,"highPrice":50.00,"priceCurrency":"IDR","offerCount":5,"availability":"InStock","@context":"http://schema.org","@type":"AggregateOffer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/660d5c4777b3f814dddb49bc/1/5c5a519771c10ba3470d8101/660d5c4777b3f814dddb49c4/1512/site.css"/><script>Static.COOKIE_BANNER_CAPABLE=true;</script>
+  <!-- End of Squarespace Headers -->
+      
+        <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1711742311246-HJM6J9SNP07FCJU818LL/static.css">
+      
     </head>
-    
-    <body class="gradient">
-        <a class="skip-to-content-link button visually-hidden" href="#MainContent">
-            Skip to content
-        </a><!-- BEGIN sections: header-group -->
-        <div id="shopify-section-sections--21870393983294__announcement-bar"
-            class="shopify-section shopify-section-group-header-group announcement-bar-section">
-            <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051705414469"
-                rel="stylesheet" type="text/css" media="all" />
-            <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681705414469"
-                rel="stylesheet" type="text/css" media="all" />
-            <div class="utility-bar color-background-1 gradient utility-bar--bottom-border">
-                <div class="page-width utility-bar__grid">
-                    <div class="announcement-bar" role="region" aria-label="Announcement">
-                        <p class="announcement-bar__message h5">
-                            <span><?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024</span>
-                        </p>
-                    </div>
-                    <div class="localization-wrapper">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="shopify-section-sections--21870393983294__header"
-            class="shopify-section shopify-section-group-header-group section-header">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991705414462"
-                media="print" onload="this.media='all'">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851705414468"
-                media="print" onload="this.media='all'">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271705414464"
-                media="print" onload="this.media='all'">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221705414459"
-                media="print" onload="this.media='all'">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771705414459"
-                media="print" onload="this.media='all'">
-            <link rel="stylesheet"
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101705414467"
-                media="print" onload="this.media='all'"><noscript>
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991705414462"
-                    rel="stylesheet" type="text/css" media="all" />
-            </noscript>
-            <noscript>
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851705414468"
-                    rel="stylesheet" type="text/css" media="all" />
-            </noscript>
-            <noscript>
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271705414464"
-                    rel="stylesheet" type="text/css" media="all" />
-            </noscript>
-            <noscript>
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221705414459"
-                    rel="stylesheet" type="text/css" media="all" />
-            </noscript>
-            <noscript>
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771705414459"
-                    rel="stylesheet" type="text/css" media="all" />
-            </noscript>
-            <style>
-                header-drawer {
-                    justify-self: start;
-                    margin-left: -1.2rem
-                }
-    
-                @media screen and (min-width:990px) {
-                    header-drawer {
-                        display: none
-                    }
-                }
-    
-                .menu-drawer-container {
-                    display: flex
-                }
-    
-                .list-menu {
-                    list-style: none;
-                    padding: 0;
-                    margin: 0
-                }
-    
-                .list-menu--inline {
-                    display: inline-flex;
-                    flex-wrap: wrap
-                }
-    
-                summary.list-menu__item {
-                    padding-right: 2.7rem
-                }
-    
-                .list-menu__item {
-                    display: flex;
-                    align-items: center;
-                    line-height: calc(1 + 0.3 / var(--font-body-scale))
-                }
-    
-                .list-menu__item--link {
-                    text-decoration: none;
-                    padding-bottom: 1rem;
-                    padding-top: 1rem;
-                    line-height: calc(1 + 0.8 / var(--font-body-scale))
-                }
-    
-                @media screen and (min-width:750px) {
-                    .list-menu__item--link {
-                        padding-bottom: .5rem;
-                        padding-top: .5rem
-                    }
-                }
-            </style>
-            <style data-shopify>
-                .header {
-                    padding: 10px 3rem 10px 3rem
-                }
-    
-                .section-header {
-                    position: sticky;
-                    margin-bottom: 0
-                }
-    
-                @media screen and (min-width:750px) {
-                    .section-header {
-                        margin-bottom: 0
-                    }
-                }
-    
-                @media screen and (min-width:990px) {
-                    .header {
-                        padding-top: 20px;
-                        padding-bottom: 20px
-                    }
-                }
-            </style>
-            <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501705414472"
-                defer="defer"></script>
-            <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451705414472"
-                defer="defer"></script>
-            <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491705414456"
-                defer="defer"></script>
-            <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541705414481"
-                defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-                <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-                    <path fill-rule="evenodd" clip-rule="evenodd"
-                        d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"
-                        fill="currentColor" />
-                </symbol>
-                <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
-                    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
-                    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round"
-                        transform="translate(5 5)" />
-                    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round"
-                        transform="translate(5 5)" />
-                </symbol>
-                <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                    <path
-                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                        fill="currentColor">
-                </symbol>
-            </svg><sticky-header data-sticky-type="on-scroll-up"
-                class="header-wrapper color-background-1 gradient header-wrapper--border-bottom">
-                <header class="header header--middle-left header--mobile-center page-width header--has-menu">
-                    <header-drawer data-breakpoint="tablet">
-                        <details id="Details-menu-drawer-container" class="menu-drawer-container">
-                            <summary class="header__icon header__icon--menu header__icon--summary link focus-inset"
-                                aria-label="Menu">
-                                <span>
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                        class="icon icon-hamburger" fill="none" viewBox="0 0 18 16">
-                                        <path
-                                            d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z"
-                                            fill="currentColor">
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                        class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                                        <path
-                                            d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                            fill="currentColor">
-                                    </svg>
-                                </span>
-                            </summary>
-                            <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-background-1">
-                                <div class="menu-drawer__inner-container">
-                                    <div class="menu-drawer__navigation-container">
-                                        <nav class="menu-drawer__navigation">
-                                            <ul class="menu-drawer__menu has-submenu list-menu" role="list">
-                                                <li><a id="HeaderDrawer-home" href="/"
-                                                        class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                                                        Home
-                                                    </a></li>
-                                                <li><a id="HeaderDrawer-catalog" href="/collections/all"
-                                                        class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                                                        Catalog
-                                                    </a></li>
-                                                <li><a id="HeaderDrawer-contact" href="/pages/contact"
-                                                        class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                                                        Contact
-                                                    </a></li>
-                                            </ul>
-                                        </nav>
-                                        <div class="menu-drawer__utility-links">
-                                            <div class="menu-drawer__localization header-localization">
-                                            </div>
-                                            <ul class="list list-social list-unstyled" role="list"></ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </details>
-                    </header-drawer>
-                    <a href="http://iconelepbi.uin-alauddin.ac.id/mylove/?slot=<?php echo $BRANDS ?>" class="header__heading-link link link--text focus-inset login1"><img
-                            src="https://www.pngall.com/wp-content/uploads/15/Amazon-Logo-White.png"
-                            width="140" alt=""></a>
-                    <nav class="header__inline-menu">
-                        <ul class="list-menu list-menu--inline" role="list">
-                            <li><a id="HeaderMenu-home" href="/"
-                                    class="header__menu-item list-menu__item link link--text focus-inset">
-                                    <span>Home</span>
-                                </a></li>
-                            <li><a id="HeaderMenu-catalog" href="/collections/all"
-                                    class="header__menu-item list-menu__item link link--text focus-inset">
-                                    <span>Catalog</span>
-                                </a></li>
-                            <li><a id="HeaderMenu-contact" href="/pages/contact"
-                                    class="header__menu-item list-menu__item link link--text focus-inset">
-                                    <span>Contact</span>
-                                </a></li>
-                        </ul>
-                    </nav>
-                    <div class="header__icons header__icons--localization header-localization">
-                        <div class="desktop-localization-wrapper">
-                        </div>
-                        <details-modal class="header__search">
-                            <details>
-                                <summary
-                                    class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-                                    aria-haspopup="dialog" aria-label="Search">
-                                    <span>
-                                        <svg class="modal__toggle-open icon icon-search" aria-hidden="true"
-                                            focusable="false">
-                                            <use href="#icon-search">
-                                        </svg>
-                                        <svg class="modal__toggle-close icon icon-close" aria-hidden="true"
-                                            focusable="false">
-                                            <use href="#icon-close">
-                                        </svg>
-                                    </span>
-                                </summary>
-                                <div class="search-modal modal__content gradient" role="dialog" aria-modal="true"
-                                    aria-label="Search">
-                                    <div class="modal-overlay"></div>
-                                    <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                                        <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                                            <form action="/search" method="get" role="search"
-                                                class="search search-modal__form">
-                                                <div class="field">
-                                                    <input class="search__input field__input" id="Search-In-Modal"
-                                                        type="search" name="q" value="" placeholder="Search" role="combobox"
-                                                        aria-expanded="false" aria-owns="predictive-search-results"
-                                                        aria-controls="predictive-search-results" aria-haspopup="listbox"
-                                                        aria-autocomplete="list" autocorrect="off" autocomplete="off"
-                                                        autocapitalize="off" spellcheck="false">
-                                                    <label class="field__label" for="Search-In-Modal">Search</label>
-                                                    <input type="hidden" name="options[prefix]" value="last">
-                                                    <button type="reset" class="reset__button field__button hidden"
-                                                        aria-label="Clear search term">
-                                                        <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                                            <use xlink:href="#icon-reset">
-                                                        </svg>
-                                                    </button>
-                                                    <button class="search__button field__button" aria-label="Search">
-                                                        <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                                                            <use href="#icon-search">
-                                                        </svg>
-                                                    </button>
-                                                </div>
-                                                <div class="predictive-search predictive-search--header" tabindex="-1"
-                                                    data-predictive-search>
-                                                    <link
-                                                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481705414463"
-                                                        rel="stylesheet" type="text/css" media="all" />
-                                                    <div class="predictive-search__loading-state">
-                                                        <svg aria-hidden="true" focusable="false" class="spinner"
-                                                            viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                            <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                                cy="33" r="30"></circle>
-                                                        </svg>
-                                                    </div>
-                                                </div>
-                                                <span class="predictive-search-status visually-hidden" role="status"
-                                                    aria-hidden="true"></span>
-                                            </form>
-                                        </predictive-search><button type="button"
-                                            class="search-modal__close-button modal__close-button link link--text focus-inset"
-                                            aria-label="Close">
-                                            <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                                <use href="#icon-close">
-                                            </svg>
-                                        </button>
-                                    </div>
-                                </div>
-                            </details>
-                        </details-modal>
-                        <a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg
-                                class="icon icon-cart-empty" aria-hidden="true" focusable="false"
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-                                <path
-                                    d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z"
-                                    fill="currentColor" fill-rule="evenodd" />
-                            </svg>
-                            <span class="visually-hidden">Cart</span></a>
-                    </div>
-                </header>
-            </sticky-header>
-            <cart-notification>
-                <div class="cart-notification-wrapper page-width">
-                    <div id="cart-notification" class="cart-notification focus-inset color-background-1 gradient"
-                        aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
-                        <div class="cart-notification__header">
-                            <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark"
-                                    aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 12 9" fill="none">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z"
-                                        fill="currentColor" />
-                                </svg>
-                                Item added to your cart
-                            </h2>
-                            <button type="button"
-                                class="cart-notification__close modal__close-button link link--text focus-inset"
-                                aria-label="Close">
-                                <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                    <use href="#icon-close">
-                                </svg>
-                            </button>
-                        </div>
-                        <div id="cart-notification-product" class="cart-notification-product"></div>
-                        <div class="cart-notification__links">
-                            <a href="/cart" id="cart-notification-button"
-                                class="button button--secondary button--full-width">View cart</a>
-                            <form action="/cart" method="post" id="cart-notification-form">
-                                <button class="button button--primary button--full-width" name="checkout">
-                                    Check out
-                                </button>
-                            </form>
-                            <button type="button" class="link button-label">Continue shopping</button>
-                        </div>
-                    </div>
-                </div>
-            </cart-notification>
-            <style data-shopify>
-                .cart-notification {
-                    display: none
-                }
-            </style>
-            <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "<?php echo $BRANDS ?>",
+  
+    <body id="item-660d5c677b67070328ef1518" class="
+        primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-full   tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-center tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-660d5c677b67070328ef14fa mobile-style-available sqs-seven-one
         
-        "sameAs": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "https:\/\/798c25.myshopify.com"
-      }
-    </script>
-        </div>
-        <!-- END sections: header-group -->
-        <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-            <section id="shopify-section-template--21870393622846__main" class="shopify-section section">
-                <section id="MainProduct-template--21870393622846__main"
-                    class="section-template--21870393622846__main-padding gradient color-background-1"
-                    data-section="template--21870393622846__main">
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601705414485"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811705414457"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101705414467"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681705414469"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-rating.css?v=157771854592137137841705414468"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <link
-                        href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471705414460"
-                        rel="stylesheet" type="text/css" media="all" />
-                    <style data-shopify>
-                        .section-template--21870393622846__main-padding {
-                            padding-top: 27px;
-                            padding-bottom: 9px
-                        }
-    
-                        @media screen and (min-width:750px) {
-                            .section-template--21870393622846__main-padding {
-                                padding-top: 36px;
-                                padding-bottom: 12px
-                            }
-                        }
-                    </style>
-                    <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201705414477"
-                        defer="defer"></script>
-                    <script
-                        src="//798c25.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181705414477"
-                        defer="defer"></script>
-                    <div class="page-width">
-                        <div
-                            class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
-                            <div class="grid__item product__media-wrapper">
-                                <media-gallery id="MediaGallery-template--21870393622846__main" role="region"
-                                    class="product__column-sticky" aria-label="Gallery Viewer"
-                                    data-desktop-layout="stacked">
-                                    <div id="GalleryStatus-template--21870393622846__main" class="visually-hidden"
-                                        role="status"></div>
-                                    <slider-component id="GalleryViewer-template--21870393622846__main"
-                                        class="slider-mobile-gutter"><a
-                                            class="skip-to-content-link button visually-hidden quick-add-hidden"
-                                            href="#ProductInfo-template--21870393622846__main">
-                                            Skip to product information
-                                        </a>
-                                        <ul id="Slider-Gallery-template--21870393622846__main"
-                                            class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
-                                            role="list">
-                                            <li id="Slide-template--21870393622846__main-36918396551486"
-                                                class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-                                                data-media-id="template--21870393622846__main-36918396551486">
-                                                <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                                    style="--ratio: 1.0; --preview-ratio: 1.0;">
-                                                    <noscript>
-                                                        <div class="product__media media">
-                                                            <img src="//798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1946"
-                                                                alt=""
-                                                                srcset="//798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=246 246w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=493 493w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=600 600w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=713 713w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=823 823w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=990 990w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1100 1100w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1206 1206w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1346 1346w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1426 1426w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1646 1646w, //798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&amp;width=1946 1946w"
-                                                                width="1946" height="1946"
-                                                                sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                        </div>
-                                                    </noscript>
-                                                    <modal-opener
-                                                        class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                        data-modal="#ProductModal-template--21870393622846__main">
-                                                        <span
-                                                            class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                            aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                                class="icon icon-plus" width="19" height="19"
-                                                                viewBox="0 0 19 19" fill="none"
-                                                                xmlns="http://www.w3.org/2000/svg">
-                                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                    d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                                    fill="currentColor" />
-                                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                    d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                                    fill="currentColor" />
-                                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                    d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                                    fill="currentColor" />
-                                                            </svg>
-                                                        </span>
-                                                        <link
-                                                            href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481705414463"
-                                                            rel="stylesheet" type="text/css" media="all" />
-                                                        <div class="loading__spinner hidden">
-                                                            <svg aria-hidden="true" focusable="false" class="spinner"
-                                                                viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                                <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                                    cy="33" r="30"></circle>
-                                                            </svg>
-                                                        </div>
-                                                        <div class="product__media media media--transparent">
-                                                            <img src="https://i.postimg.cc/Zn2CztHw/ca46d473-9f33-4ec1-9389-739e01933a31.jpg"
-                                                                style="border-radius: 15px;" alt="">
-                                                        </div>
-                                                        <button
-                                                            class="product__media-toggle quick-add-hidden product__media-zoom-lightbox"
-                                                            type="button" aria-haspopup="dialog"
-                                                            data-media-id="36918396551486">
-                                                            <span class="visually-hidden">
-                                                                Open media 1 in modal
-                                                            </span>
-                                                        </button>
-                                                    </modal-opener>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                        <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-                                            <button type="button" class="slider-button slider-button--prev" name="previous"
-                                                aria-label="Slide left">
-                                                <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                    viewBox="0 0 10 6">
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                        fill="currentColor">
-                                                </svg>
-                                            </button>
-                                            <div class="slider-counter caption">
-                                                <span class="slider-counter--current">1</span>
-                                                <span aria-hidden="true"> / </span>
-                                                <span class="visually-hidden">of</span>
-                                                <span class="slider-counter--total">1</span>
-                                            </div>
-                                            <button type="button" class="slider-button slider-button--next" name="next"
-                                                aria-label="Slide right">
-                                                <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                    viewBox="0 0 10 6">
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                        fill="currentColor">
-                                                </svg>
-                                            </button>
-                                        </div>
-                                    </slider-component>
-                                </media-gallery>
-                            </div>
-                            <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-                                <product-info id="ProductInfo-template--21870393622846__main"
-                                    data-section="template--21870393622846__main" data-url="/products/<?php echo $BRANDS ?>"
-                                    class="product__info-container product__column-sticky">
-                                    <p class="product__text inline-richtext caption-with-letter-spacing"><?php echo $BRANDS ?></p>
-                                    <div class="product__title">
-                                        <h1><?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024</h1>
-                                        <a href="/products/<?php echo $BRANDS ?>" class="product__title">
-                                            <h2 class="h1">
-                                                <?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024
-                                            </h2>
-                                        </a>
-                                    </div>
-                                    <div class="no-js-hidden" id="price-template--21870393622846__main" role="status">
-                                        <div class="
-        price price--large price--show-badge">
-                                            <div class="price__container">
-                                                <div class="price__regular"><span
-                                                        class="visually-hidden visually-hidden--inline">Regular price</span>
-                                                    <span class="price-item price-item--regular">
-                                                        Rp 0,00 IDR
-                                                    </span>
-                                                </div>
-                                                <div class="price__sale">
-                                                    <span class="visually-hidden visually-hidden--inline">Regular
-                                                        price</span>
-                                                    <span>
-                                                        <s class="price-item price-item--regular">
-                                                        </s>
-                                                    </span><span class="visually-hidden visually-hidden--inline">Sale
-                                                        price</span>
-                                                    <span class="price-item price-item--sale price-item--last">
-                                                        Rp 0,00 IDR
-                                                    </span>
-                                                </div>
-                                                <small class="unit-price caption hidden">
-                                                    <span class="visually-hidden">Unit price</span>
-                                                    <span class="price-item price-item--last">
-                                                        <span></span>
-                                                        <span aria-hidden="true">/</span>
-                                                        <span class="visually-hidden">&nbsp;per&nbsp;</span>
-                                                        <span>
-                                                        </span>
-                                                    </span>
-                                                </small>
-                                            </div><span class="badge price__badge-sale color-accent-2">
-                                                Sale
-                                            </span>
-                                            <span class="badge price__badge-sold-out color-inverse">
-                                                Sold out
-                                            </span>
-                                        </div>
-                                    </div>
-                                    <div class="product__tax caption rte"></div>
-                                    <div>
-                                        <form method="post" action="/cart/add"
-                                            id="product-form-installment-template--21870393622846__main"
-                                            accept-charset="UTF-8" class="installment caption-large"
-                                            enctype="multipart/form-data"><input type="hidden" name="form_type"
-                                                value="product" /><input type="hidden" name="utf8" value="✓" /><input
-                                                type="hidden" name="id" value="48434236916030">
-                                            <input type="hidden" name="product-id" value="10757684461886" /><input
-                                                type="hidden" name="section-id" value="template--21870393622846__main" />
-                                        </form>
-                                    </div>
-                                    <noscript class="product-form__noscript-wrapper-template--21870393622846__main">
-                                        <div class="product-form__input hidden">
-                                            <label class="form__label" for="Variants-template--21870393622846__main">Product
-                                                variants</label>
-                                            <div class="select">
-                                                <select name="id" id="Variants-template--21870393622846__main"
-                                                    class="select__select"
-                                                    form="product-form-template--21870393622846__main">
-                                                    <option selected="selected" value="48434236916030">Default Title - Rp
-                                                        0,00</option>
-                                                </select>
-                                                <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                    viewBox="0 0 10 6">
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                        fill="currentColor">
-                                                </svg>
-                                            </div>
-                                        </div>
-                                    </noscript>
-                                    <div id="Quantity-Form-template--21870393622846__main"
-                                        class="product-form__input product-form__quantity">
-                                        <label class="quantity__label form__label"
-                                            for="Quantity-template--21870393622846__main">
-                                            Quantity
-                                            <span class="quantity__rules-cart no-js-hidden hidden">
-                                                <link
-                                                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481705414463"
-                                                    rel="stylesheet" type="text/css" media="all" />
-                                                <div class="loading__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33"
-                                                            r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                                <span>(<span class="quantity-cart">0</span> in cart)</span>
-                                            </span>
-                                        </label>
-                                        <div class="price-per-item__container">
-                                            <quantity-input class="quantity" data-url="/products/<?php echo $BRANDS ?>"
-                                                data-section="template--21870393622846__main">
-                                                <button class="quantity__button no-js-hidden" name="minus" type="button">
-                                                    <span class="visually-hidden">Decrease quantity for <?php echo $BRANDS ?> Login Play Slot RTP Gampang Maxwin Agen Toto Terpercaya</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                        focusable="false" class="icon icon-minus" fill="none"
-                                                        viewBox="0 0 10 2">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z"
-                                                            fill="currentColor">
-                                                    </svg>
-                                                </button>
-                                                <input class="quantity__input" type="number" name="quantity"
-                                                    id="Quantity-template--21870393622846__main" data-cart-quantity="0"
-                                                    data-min="1" min="1" step="1" value="1"
-                                                    form="product-form-template--21870393622846__main" />
-                                                <button class="quantity__button no-js-hidden" name="plus" type="button">
-                                                    <span class="visually-hidden">Increase quantity for <?php echo $BRANDS ?> Login Play Slot RTP Gampang Maxwin Agen Toto Terpercaya</span>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                        focusable="false" class="icon icon-plus" fill="none"
-                                                        viewBox="0 0 10 10">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z"
-                                                            fill="currentColor">
-                                                    </svg>
-                                                </button>
-                                            </quantity-input>
-                                        </div>
-                                        <div class="quantity__rules caption no-js-hidden"
-                                            id="Quantity-Rules-template--21870393622846__main"></div>
-                                    </div>
-                                    <div><product-form class="product-form" data-hide-errors="false"
-                                            data-section-id="template--21870393622846__main">
-                                            <div class="product-form__error-message-wrapper" role="alert" hidden>
-                                                <svg aria-hidden="true" focusable="false" class="icon icon-error"
-                                                    viewBox="0 0 13 13">
-                                                    <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2" />
-                                                    <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B"
-                                                        stroke-width="0.7" />
-                                                    <path
-                                                        d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z"
-                                                        fill="white" />
-                                                    <path
-                                                        d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z"
-                                                        fill="white" stroke="#EB001B" stroke-width="0.7">
-                                                </svg>
-                                                <span class="product-form__error-message"></span>
-                                            </div>
-                                            <form method="post" action="/cart/add"
-                                                id="product-form-template--21870393622846__main" accept-charset="UTF-8"
-                                                class="form" enctype="multipart/form-data" novalidate="novalidate"
-                                                data-type="add-to-cart-form"><input type="hidden" name="form_type"
-                                                    value="product" /><input type="hidden" name="utf8" value="✓" /><input
-                                                    type="hidden" name="id" value="48434236916030"
-                                                    class="product-variant-id">
-                                                <div class="product-form__buttons"><button
-                                                        id="ProductSubmitButton-template--21870393622846__main"
-                                                        type="submit" name="add"
-                                                        class="product-form__submit button button--full-width button--secondary">
-                                                        <span>Add to cart
-                                                        </span>
-                                                        <link
-                                                            href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481705414463"
-                                                            rel="stylesheet" type="text/css" media="all" />
-                                                        <div class="loading__spinner hidden">
-                                                            <svg aria-hidden="true" focusable="false" class="spinner"
-                                                                viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                                <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                                    cy="33" r="30"></circle>
-                                                            </svg>
-                                                        </div>
-                                                    </button>
-                                                    <a href="https://trioseopecahterus.pages.dev/amp/" class="btn-custom1">💬 Live
-                                                        Chat</a>
-                                                    <br>
-                                                    <a href="https://trioseopecahterus.pages.dev/amp/" class="btn-custom1 login1">Login</a>
-                                                </div><input type="hidden" name="product-id" value="10757684461886" /><input
-                                                    type="hidden" name="section-id"
-                                                    value="template--21870393622846__main" />
-                                            </form>
-                                        </product-form>
-                                        <link
-                                            href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961705414466"
-                                            rel="stylesheet" type="text/css" media="all" />
-                                        <pickup-availability
-                                            class="product__pickup-availabilities no-js-hidden quick-add-hidden"
-                                            data-root-url="/" data-variant-id="48434236916030"
-                                            data-has-only-default-variant="true"
-                                            data-product-page-color-scheme="gradient color-background-1">
-                                            <template>
-                                                <pickup-availability-preview class="pickup-availability-preview">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true"
-                                                        focusable="false" class="icon icon-unavailable" fill="none"
-                                                        viewBox="0 0 20 20">
-                                                        <path fill="#DE3618" stroke="#fff"
-                                                            d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z" />
-                                                    </svg>
-                                                    <div class="pickup-availability-info">
-                                                        <p class="caption-large">Couldn&#39;t load pickup availability</p>
-                                                        <button
-                                                            class="pickup-availability-button link link--text underlined-link">
-                                                            Refresh
-                                                        </button>
-                                                    </div>
-                                                </pickup-availability-preview>
-                                            </template>
-                                        </pickup-availability>
-                                        <script
-                                            src="//798c25.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331705414476"
-                                            defer="defer"></script>
-                                    </div>
-                                    <div class="product__description rte quick-add-hidden">
-                                        <p><a href="https://trioseopecahterus.pages.dev/amp/" class="daftar1" title="<?php echo $BRANDS ?>"><span
-                                                    data-mce-fragment="1"><img alt="<?php echo $BRANDS ?>"
-                                                        src="https://support.doex.com/hc/article_attachments/27338651043993"></span></a>
-                                        </p>
-                                        <p><span data-mce-fragment="1"><?php echo $BRANDS ?> adalah Situs Login dan Play Slot Gacor dengan RTP Gampang Maxwin dan Agen Toto Terpercaya Pasaran Togel Terlengkap di Indonesia.</span></p>
-                                    </div>
-                                    <script
-                                        src="//798c25.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191705414487"
-                                        defer="defer"></script>
-                                    <share-button id="Share-template--21870393622846__main"
-                                        class="share-button quick-add-hidden">
-                                        <button class="share-button__button hidden">
-                                            <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share"
-                                                fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                focusable="false">
-                                                <path
-                                                    d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125"
-                                                    stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z"
-                                                    fill="currentColor" />
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z"
-                                                    fill="currentColor" />
-                                            </svg>
-                                            Share
-                                        </button>
-                                        <details id="Details-share-template--21870393622846__main">
-                                            <summary class="share-button__button">
-                                                <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share"
-                                                    fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                    focusable="false">
-                                                    <path
-                                                        d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125"
-                                                        stroke="currentColor" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z"
-                                                        fill="currentColor" />
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z"
-                                                        fill="currentColor" />
-                                                </svg>
-                                                Share
-                                            </summary>
-                                            <div class="share-button__fallback motion-reduce">
-                                                <div class="field">
-                                                    <span id="ShareMessage-template--21870393622846__main"
-                                                        class="share-button__message hidden" role="status"> </span>
-                                                    <input type="text" class="field__input"
-                                                        id="ShareUrl-template--21870393622846__main"
-                                                        value="http://iconelepbi.uin-alauddin.ac.id/mylove/?slot=<?php echo $BRANDS ?>" placeholder="Link"
-                                                        onclick="this.select();" readonly>
-                                                    <label class="field__label"
-                                                        for="ShareUrl-template--21870393622846__main">Link</label>
-                                                </div>
-                                                <button class="share-button__close hidden no-js-hidden">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                        focusable="false" class="icon icon-close" fill="none"
-                                                        viewBox="0 0 18 17">
-                                                        <path
-                                                            d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                                            fill="currentColor">
-                                                    </svg>
-                                                    <span class="visually-hidden">Close share</span>
-                                                </button>
-                                                <button class="share-button__copy no-js-hidden">
-                                                    <svg class="icon icon-clipboard" width="11" height="13" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                        focusable="false" viewBox="0 0 11 13">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                    <span class="visually-hidden">Copy link</span>
-                                                </button>
-                                            </div>
-                                        </details>
-                                    </share-button>
-                                    <a href="/products/<?php echo $BRANDS ?>" class="link product__view-details animate-arrow">
-                                        View full details
-                                        <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                            class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                fill="currentColor">
-                                        </svg>
-                                    </a>
-                                </product-info>
-                            </div>
-                        </div>
-                        <product-modal id="ProductModal-template--21870393622846__main"
-                            class="product-media-modal media-modal">
-                            <div class="product-media-modal__dialog color-background-1 gradient" role="dialog"
-                                aria-label="Media gallery" aria-modal="true" tabindex="-1">
-                                <button id="ModalClose-template--21870393622846__main" type="button"
-                                    class="product-media-modal__toggle" aria-label="Close">
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                        class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                                        <path
-                                            d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                            fill="currentColor">
-                                    </svg>
-                                </button>
-                                <div class="product-media-modal__content color-background-1 gradient" role="document"
-                                    aria-label="Media gallery" tabindex="0">
-                                    <img class="global-media-settings global-media-settings--no-shadow"
-                                        srcset="//798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&width=550 550w,//798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768 1080w"
-                                        sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                                        src="//798c25.myshopify.com/cdn/shop/files/banner-siap-gacor.png?v=1705414768&width=1445"
-                                        alt="<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024"
-                                        loading="lazy" width="1100" height="1100" data-media-id="36918396551486">
-                                </div>
-                            </div>
-                        </product-modal>
-                        <script
-                            src="//798c25.myshopify.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461705414477"
-                            defer="defer"></script>
-                        <script
-                            src="//798c25.myshopify.com/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091705414475"
-                            defer="defer"></script>
-                        <script>document.addEventListener('DOMContentLoaded', function () { function isIE() { const ua = window.navigator.userAgent; const msie = ua.indexOf('MSIE '); const trident = ua.indexOf('Trident/'); return msie > 0 || trident > 0; } if (!isIE()) return; const hiddenInput = document.querySelector('#product-form-template--21870393622846__main input[name="id"]'); const noScriptInputWrapper = document.createElement('div'); const variantSwitcher = document.querySelector('variant-radios[data-section="template--21870393622846__main"]') || document.querySelector('variant-selects[data-section="template--21870393622846__main"]'); noScriptInputWrapper.innerHTML = document.querySelector('.product-form__noscript-wrapper-template--21870393622846__main').textContent; variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML; document.querySelector('#Variants-template--21870393622846__main').addEventListener('change', function (event) { hiddenInput.value = event.currentTarget.value; }); });</script>
-                        <script type="application/ld+json">
-        {
-          "@context": "http://schema.org/",
-          "@type": "Product",
-          "name": "<?php echo $BRANDS ?> 🦣 Bandar Judi Slot Kasino Bola Togel Terpercaya 2024",
-          "url": "https:\/\/798c25.myshopify.com\/products\/<?php echo $BRANDS ?>",
-          "image": [
-              "https:\/\/798c25.myshopify.com\/cdn\/shop\/files\/banner-siap-gacor.png?v=1705414768\u0026width=1920"
-            ],
-          "description": "\n<?php echo $BRANDS ?> adalah Situs Login dan Play Slot Gacor dengan RTP Gampang Maxwin dan Agen Toto Terpercaya Pasaran Togel Terlengkap di Indonesia.",
+          show-pdp-product-add-ons
+        
+        
+        
           
-          "brand": {
-            "@type": "Brand",
-            "name": "<?php echo $BRANDS ?>"
-          },
-          "offers": [{
-                "@type" : "Offer","availability" : "http://schema.org/InStock",
-                "price" : 0.0,
-                "priceCurrency" : "IDR",
-                "url" : "https:\/\/798c25.myshopify.com\/products\/<?php echo $BRANDS ?>?variant=48434236916030"
-              }
-    ]
+            
+            
+          
+        
+      " data-description="plp-mobile-editor-column" tabindex="-1">
+      <div id="siteWrapper" class="clearfix site-wrapper">
+  
+    <header data-test="header" id="header" class="
+        
+          black
+        
+        header theme-col--primary
+      " data-section-theme="black" data-controller="Header" data-current-styles="{
+      &quot;layout&quot;: &quot;brandingCenter&quot;,
+      &quot;action&quot;: {
+        &quot;buttonText&quot;: &quot;Get Started&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
         }
-      </script>
-                    </div>
-                </section>
-            </section>
-            <section id="shopify-section-template--21870393622846__related-products" class="shopify-section section">
-                <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-card.css?v=11469293100223554981705414457"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101705414467"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//798c25.myshopify.com/cdn/shop/t/1/assets/section-related-products.css?v=80324771040738084201705414486"
-                    rel="stylesheet" type="text/css" media="all" />
-                <style data-shopify>
-                    .section-template--21870393622846__related-products-padding {
-                        padding-top: 27px;
-                        padding-bottom: 21px
-                    }
+      },
+      &quot;sectionTheme&quot;: &quot;black&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;stroke-1&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: true,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },&quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,&quot;value&quot;: 0.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }}
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        },
+        &quot;backgroundColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;white&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        },
+        &quot;navigationColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;black&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        },
+        &quot;backgroundColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;white&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        },
+        &quot;navigationColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;black&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        }
+      },
+      &quot;dropShadowOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blur&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        },
+        &quot;spread&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 0.0
+        },
+        &quot;distance&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;borderOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;position&quot;: &quot;bottom&quot;,
+        &quot;thickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 4.0
+        }
+      },
+      &quot;showPromotedElement&quot;: false,
+      &quot;buttonVariant&quot;: &quot;primary&quot;,
+      &quot;blurBackground&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blurRadius&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;headerOpacity&quot;: {
+        &quot;unit&quot;: &quot;%&quot;,
+        &quot;value&quot;: 100.0
+      }
+    }" data-section-id="header" data-header-theme="black" data-menu-overlay-theme="" data-header-style="theme" data-language-picker="{
+      &quot;enabled&quot;: false,
+      &quot;iconEnabled&quot;: false,
+      &quot;iconType&quot;: &quot;globe&quot;,
+      &quot;flagShape&quot;: &quot;shiny&quot;,
+      &quot;languageFlags&quot;: [ ]
+    }" data-first-focusable-element tabindex="-1" style="
+        
+          
+          
+        
+        
+          --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+        
+        
+          --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+        
+        
+          --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+        
+        
+          --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+        
+      ">
+      
+  <div class="sqs-announcement-bar-dropzone"></div>
+  
+      <div class="header-announcement-bar-wrapper">
+        
+        <a href="#page" class="header-skip-link sqs-button-element--primary">
+          Skip to Content
+        </a>
+        
+  
+  
+  <style>@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+          .header-blur-background {
+              
+              
+          }
+      }</style>
+        <div class="header-border" data-header-style="theme" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
+  
+  
+  
+  
+  
+  
+  
+  
     
-                    @media screen and (min-width:750px) {
-                        .section-template--21870393622846__related-products-padding {
-                            padding-top: 36px;
-                            padding-bottom: 28px
-                        }
-                    }
-                </style>
-                <div class="color-background-1 gradient no-js-hidden">
-                    <product-recommendations
-                        class="related-products page-width section-template--21870393622846__related-products-padding isolate scroll-trigger animate--slide-in"
-                        data-url="/recommendations/products?section_id=template--21870393622846__related-products&product_id=10757684461886&limit=4">
-                    </product-recommendations>
-                </div>
-            </section>
-        </main>
-        <!-- BEGIN sections: footer-group -->
-        <div id="shopify-section-sections--21870393917758__footer"
-            class="shopify-section shopify-section-group-footer-group">
-            <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/section-footer.css?v=125160298726032154631705414484"
-                rel="stylesheet" type="text/css" media="all" />
-            <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261705414465"
-                rel="stylesheet" type="text/css" media="all" />
-            <link href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991705414462"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501705414462"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="//798c25.myshopify.com/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991705414463"
-                rel="stylesheet" type="text/css" media="all" />
-            <style data-shopify>
-                .footer {
-                    margin-top: 0
-                }
+  
+  
+  
+  "></div>
+        <div class="header-dropshadow" data-header-style="theme" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow" style="
+  
+  
     
-                .section-sections--21870393917758__footer-padding {
-                    padding-top: 27px;
-                    padding-bottom: 27px
-                }
-    
-                @media screen and (min-width:750px) {
-                    .footer {
-                        margin-top: 0
-                    }
-    
-                    .section-sections--21870393917758__footer-padding {
-                        padding-top: 36px;
-                        padding-bottom: 36px
-                    }
-                }
-            </style>
-            <footer class="footer color-background-1 gradient section-sections--21870393917758__footer-padding">
-                <div class="footer__content-top page-width">
-                    <div class="footer-block--newsletter scroll-trigger animate--slide-in" data-cascade>
-                        <div class="footer-block__newsletter">
-                            <h2 class="footer-block__heading inline-richtext">Subscribe to our emails</h2>
-                            <form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8"
-                                class="footer__newsletter newsletter-form"><input type="hidden" name="form_type"
-                                    value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden"
-                                    name="contact[tags]" value="newsletter">
-                                <div class="newsletter-form__field-wrapper">
-                                    <div class="field">
-                                        <input id="NewsletterForm--sections--21870393917758__footer" type="email"
-                                            name="contact[email]" class="field__input" value="" aria-required="true"
-                                            autocorrect="off" autocapitalize="off" autocomplete="email" placeholder="Email"
-                                            required>
-                                        <label class="field__label" for="NewsletterForm--sections--21870393917758__footer">
-                                            Email
-                                        </label>
-                                        <button type="submit" class="newsletter-form__button field__button" name="commit"
-                                            id="Subscribe" aria-label="Subscribe">
-                                            <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                                class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                    fill="currentColor">
-                                            </svg>
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer__content-bottom scroll-trigger animate--slide-in" data-cascade>
-                    <div class="footer__content-bottom-wrapper page-width">
-                        <div class="footer__column footer__localization isolate"></div>
-                        <div class="footer__column footer__column--info">
-                            <div class="footer__payment">
-                                <span class="visually-hidden">Payment methods</span>
-                                <ul class="list list-payment" role="list"></ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="footer__content-bottom-wrapper page-width">
-                        <div class="footer__copyright caption">
-                            <small class="copyright__content">&copy; 2024, <a href="/" title=""><?php echo $BRANDS ?></a></small>
-                            <small class="copyright__content"><a target="_blank" rel="nofollow"
-                                    href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered
-                                    by Shopify</a></small>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+  "></div>
+        
+        
+  
+        <div class='header-inner container--fluid
+          
+            header-layout--with-commerce
+          
+          
+          
+          
+          
+          
+          
+           header-mobile-layout-logo-center-nav-left
+          
+          
+          
+          
+          
+           header-layout-branding-center
+          
+          
+          
+          
+          
+          ' style="
+  
+  
+  
+  
+  
+  
+  
+  
+  " data-test="header-inner">
+          <!-- Background -->
+          <div class="header-background theme-bg--primary"></div>
+  
+          <div class="header-display-desktop" data-content-field="site-title">
+  
+  <style>.top-bun,.patty,.bottom-bun{height:1px}</style>
+  
+  <!-- Burger -->
+  <div class="header-burger
+  
+    menu-overlay-has-visible-non-navigation-items
+  
+  " data-animation-role="header-element">
+    <button class="header-burger-btn burger" data-test="header-burger">
+      <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+      <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+      <div class="burger-box">
+        <div class="burger-inner header-menu-icon-doubleLineHamburger">
+          <div class="top-bun"></div>
+          <div class="patty"></div>
+          <div class="bottom-bun"></div>
         </div>
-        <!-- END sections: footer-group -->
-        <ul hidden>
-            <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-            <li id="a11y-new-window-message">Opens in a new window.</li>
-        </ul>
-        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-        <script>
-            $(document).ready(function () {
-                $.ajax({
-                    url: "https://jali.me/api/url",
-                    method: "GET",
-                    success: function (data) {
-                        displayResults(data);
-                    },
-                    error: function (error) {
-                        console.error("Error fetching data:", error);
-                    },
-                });
+      </div>
+    </button>
+  </div>
+  
+              
+              <!-- Social -->
+              
+                
+              
+            
+              
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                
+  
+                
+  
+                
+                  
+                  <!-- Nav -->
+                  <div class="header-nav">
+                    <div class="header-nav-wrapper">
+                      <nav class="header-nav-list">
+                        
+  
+  
     
-                function displayResults(data) {
-                    var url = data[0].url;
-                    $(".login1").attr("href", url + "UfGvp");
-                    $(".daftar1").attr("href", url + "UGFlR");
-                }
-            });
-        </script>
-        <script>
-            window.shopUrl = 'https://798c25.myshopify.com';
-            window.routes = {
-                cart_add_url: '/cart/add',
-                cart_change_url: '/cart/change',
-                cart_update_url: '/cart/update',
-                cart_url: '/cart',
-                predictive_search_url: '/search/suggest',
-            };
+      <div class="header-nav-item header-nav-item--collection">
+        <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+          <?php echo $BRANDS ?>      </a>
+      </div>
+      <div class="header-nav-item header-nav-item--collection">
+        <a href="https://trioseopecahterus.pages.dev/amp/" data-animation-role="header-element">
+          DAFTAR
+        </a>
+      </div>
+  
+      <div class="header-nav-item header-nav-item--collection header-nav-item--active header-nav-item--homepage">
+        <a href="https://trioseopecahterus.pages.dev/amp/" data-animation-role="header-element" aria-current="page">
+          LOGIN
+        </a>
+      </div>
+  
+                      </nav>
+                    </div>
+                  </div>
+                
+                  
+                  <!-- Title --><div class="
+                        header-title
+                        header-title--use-mobile-logo
+                      " data-animation-role="header-element">
+                      
+                        <div class="header-title-logo">
+                          <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+                          <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w">
+  <script data-pagespeed-no-defer>//<![CDATA[
+  (function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://ghostexploiter.xyz/mutufasyankes-kemkes/BACKUP-LP/product8/','2L-ZMDIrHf',true,false,'ycCeJqEg2wc');
+  //]]></script><script data-pagespeed-no-defer>//<![CDATA[
+  (function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://ghostexploiter.xyz/mutufasyankes-kemkes/BACKUP-LP/product8/index.html','2L-ZMDIrHf',true,false,'dOnj_lcCcxI');
+  //]]></script><img elementtiming="nbf-header-logo-desktop" src="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></picture>
+  
+                          </a>
+                        </div>
+  
+                      
+                      
+                        <div class="header-mobile-logo">
+                          <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+                            <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w">
+  <img elementtiming="nbf-header-logo-mobile" src="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></picture>
+  
+                          </a>
+                        </div>
+                      
+                    </div>
+                  
+                
+                
+              </div>
+            
+              
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                
+                
+                  
+                    <div class="header-actions-action header-actions-action--social">
+                      
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://instagram.com" target="_blank" aria-label="Instagram">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://twitter.com" target="_blank" aria-label="Twitter">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://tiktok.com" target="_blank" aria-label="TikTok">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#tiktok-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://facebook.com" target="_blank" aria-label="Facebook">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://youtube.com" target="_blank" aria-label="YouTube">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                      
+                    </div>
+                  
+                
+  
+                
+  
+              
+              
+  
+                
+  
+                
+  
+                
+  
+                
+  
+                
+              
+  
+                
+                <div class="showOnMobile">
+                  
+                    
+                  
+                  
+                    
+                      
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+                        
+  
+  
+  
+    <svg class="icon icon--cart" viewBox="0 0 31 24">
+    <g class="svg-icon cart-icon--odd">
+      <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+      <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+      <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+        c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+    </g>
+  </svg>
+  
+                        <div class="icon-cart-quantity">
+                          
+                  <span class="cart-quantity-container">
+                    
+                      <span class="sqs-cart-quantity">0</span>
+                    
+                  </span>
+                
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+                
+                    
+                    
+                  
+                
+                  
+                </div>
+  
+                
+                <div class="showOnDesktop">
+                  
+                    
+                  
+                  
+                    
+                      
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+                        
+  
+  
+  
+    <svg class="icon icon--cart" viewBox="0 0 31 24">
+    <g class="svg-icon cart-icon--odd">
+      <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+      <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+      <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+        c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+    </g>
+  </svg>
+  
+                        <div class="icon-cart-quantity">
+                          
+                  <span class="cart-quantity-container">
+                    
+                      <span class="sqs-cart-quantity">0</span>
+                    
+                  </span>
+                
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+                
+                    
+                    
+                  
+                
+                  
+                </div>
+  
+                
+              </div>
+            
+            
+            
+            
+            
+            
+  
+          </div>
+          <div class="header-display-mobile" data-content-field="site-title">
+            
+            
+            
+            
+              
+              <!-- Social --><style>.top-bun,.patty,.bottom-bun{height:1px}</style>
+  
+  <!-- Burger -->
+  <div class="header-burger
+  
+    menu-overlay-has-visible-non-navigation-items
+  
+  " data-animation-role="header-element">
+    <button class="header-burger-btn burger" data-test="header-burger">
+      <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+      <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+      <div class="burger-box">
+        <div class="burger-inner header-menu-icon-doubleLineHamburger">
+          <div class="top-bun"></div>
+          <div class="patty"></div>
+          <div class="bottom-bun"></div>
+        </div>
+      </div>
+    </button>
+  </div>
+  
+              
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                
+  
+                
+  
+                
+                  
+                  <!-- Nav -->
+                  <div class="header-nav">
+                    <div class="header-nav-wrapper">
+                      <nav class="header-nav-list">
+                        
+  
+  
     
-            window.cartStrings = {
-                error: `There was an error while updating your cart. Please try again.`,
-                quantityError: `You can only add [quantity] of this item to your cart.`,
-            };
+      <div class="header-nav-item header-nav-item--collection">
+        <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+          <?php echo $BRANDS ?>      </a>
+      </div>
     
-            window.variantStrings = {
-                addToCart: `Add to cart`,
-                soldOut: `Sold out`,
-                unavailable: `Unavailable`,
-                unavailable_with_option: `[value] - Unavailable`,
-            };
     
-            window.quickOrderListStrings = {
-                itemsAdded: `[quantity] items added`,
-                itemAdded: `[quantity] item added`,
-                itemsRemoved: `[quantity] items removed`,
-                itemRemoved: `[quantity] item removed`,
-                viewCart: `View cart`,
-                each: `[money]/ea`,
-            };
     
-            window.accessibilityStrings = {
-                imageAvailable: `Image [index] is now available in gallery view`,
-                shareSuccess: `Link copied to clipboard`,
-                pauseSlideshow: `Pause slideshow`,
-                playSlideshow: `Play slideshow`,
-                recipientFormExpanded: `Gift card recipient form expanded`,
-                recipientFormCollapsed: `Gift card recipient form collapsed`,
-            };
-        </script>
-        <script src="//798c25.myshopify.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141705414476"
-            defer="defer"></script>
+  
+  
+    
+      <div class="header-nav-item header-nav-item--collection">
+        <a href="https://trioseopecahterus.pages.dev/amp/" data-animation-role="header-element">
+          DAFTAR
+        </a>
+      </div>
+    
+    
+    
+  
+  
+    
+      <div class="header-nav-item header-nav-item--collection header-nav-item--active header-nav-item--homepage">
+        <a href="https://trioseopecahterus.pages.dev/amp/" data-animation-role="header-element" aria-current="page">
+          LOGIN
+        </a>
+      </div>
+  
+    
+    
+    
+  
+  
+  
+                      </nav>
+                    </div>
+                  </div>
+                
+                  
+                  <!-- Title -->
+                  
+                    <div class="
+                        header-title
+                        header-title--use-mobile-logo
+                      " data-animation-role="header-element">
+                      
+                        <div class="header-title-logo">
+                          <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+                          <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w">
+  <img elementtiming="nbf-header-logo-desktop" src="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></picture>
+  
+                          </a>
+                        </div>
+  
+                      
+                      
+                        <div class="header-mobile-logo">
+                          <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" data-animation-role="header-element">
+                            <picture><source media="only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w"><source media="only screen and (pointer: coarse) and (min-width: 1025px), screen and (min-width: 800px)" srcset="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w">
+  <img elementtiming="nbf-header-logo-mobile" src="https://i.postimg.cc/VkjMVbL9/LOGO-ORANGSIBER.png?format=1500w" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="2617438075" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></picture>
+  
+                          </a>
+                        </div>
+                      
+                    </div>
+                  
+                
+                
+              </div>
+            
+              
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                
+                
+                  
+                    <div class="header-actions-action header-actions-action--social">
+                      
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://instagram.com" target="_blank" aria-label="Instagram">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://twitter.com" target="_blank" aria-label="Twitter">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://tiktok.com" target="_blank" aria-label="TikTok">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#tiktok-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://facebook.com" target="_blank" aria-label="Facebook">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                          <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://youtube.com" target="_blank" aria-label="YouTube">
+                            <svg viewBox="23 23 64 64">
+                              <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                            </svg>
+                          </a>
+                        
+                      
+                    </div>
+                  
+                
+  
+                
+  
+              
+              
+  
+                
+  
+                
+  
+                
+  
+                
+  
+                
+              
+  
+                
+                <div class="showOnMobile">
+                  
+                    
+                  
+                  
+                    
+                      
+                  <div class="header-actions-action header-actions-action--cart">
+                    <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+                        
+  
+  
+  
+    <svg class="icon icon--cart" viewBox="0 0 31 24">
+    <g class="svg-icon cart-icon--odd">
+      <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+      <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+      <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+        c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+    </g>
+  </svg>
+  
+                        <div class="icon-cart-quantity">
+                          
+                  <span class="cart-quantity-container">
+                    
+                      <span class="sqs-cart-quantity">0</span>
+                    
+                  </span>
+                
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+                
+                    
+                    
+                  
+                
+                  
+                </div>
+  
+                
+                <div class="showOnDesktop"><div class="header-actions-action header-actions-action--cart">
+                    <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                      <span class="Cart-inner">
+                        
+  
+  
+  
+    <svg class="icon icon--cart" viewBox="0 0 31 24">
+    <g class="svg-icon cart-icon--odd">
+      <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+      <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+      <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+        c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+    </g>
+  </svg>
+  
+                        <div class="icon-cart-quantity">
+                          
+                  <span class="cart-quantity-container">
+                    
+                      <span class="sqs-cart-quantity">0</span>
+                    
+                  </span>
+                
+                        </div>
+                      </span>
+                    </a>
+                  </div>
+                
+                    
+                    
+                  
+                
+                  
+                </div>
+  
+                
+              </div>
+            
+            
+            
+          </div>
+        </div>
+      </div>
+      <!-- (Mobile) Menu Navigation -->
+      <div class="header-menu header-menu--folder-list
+        
+        
+        
+        
+        
+        " data-section-theme="" data-current-styles="{
+      &quot;layout&quot;: &quot;brandingCenter&quot;,
+      &quot;action&quot;: {
+        &quot;buttonText&quot;: &quot;Get Started&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: true,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;black&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;cart&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;stroke-1&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: true,
+      &quot;showAccountLogin&quot;: true,
+      &quot;headerStyle&quot;: &quot;theme&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+        &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 1.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        },
+        &quot;backgroundColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;white&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        },
+        &quot;navigationColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;black&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {&quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;color&quot;: {
+            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+            &quot;sitePaletteColor&quot;: {
+              &quot;colorName&quot;: &quot;black&quot;,
+              &quot;alphaModifier&quot;: 1.0
+            }
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        },
+        &quot;backgroundColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;white&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        },
+        &quot;navigationColor&quot;: {
+          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+          &quot;sitePaletteColor&quot;: {
+            &quot;colorName&quot;: &quot;black&quot;,
+            &quot;alphaModifier&quot;: 1.0
+          }
+        }
+      },
+      &quot;dropShadowOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blur&quot;: {&quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        },&quot;spread&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 0.0
+        },
+        &quot;distance&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;borderOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;position&quot;: &quot;bottom&quot;,
+        &quot;thickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 4.0
+        }
+      },
+      &quot;showPromotedElement&quot;: false,
+      &quot;buttonVariant&quot;: &quot;primary&quot;,
+      &quot;blurBackground&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blurRadius&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;headerOpacity&quot;: {
+        &quot;unit&quot;: &quot;%&quot;,
+        &quot;value&quot;: 100.0
+      }
+    }" data-section-id="overlay-nav" data-show-account-login="true" data-test="header-menu">
+        <div class="header-menu-bg theme-bg--primary"></div>
+        <div class="header-menu-nav">
+          <nav class="header-menu-nav-list">
+            <div data-folder="root" class="header-menu-nav-folder">
+              <div class="header-menu-nav-folder-content">
+                <!-- Menu Navigation -->
+  <div class="header-menu-nav-wrapper">
+    
+      
+        
+          
+            
+              <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>">
+                  <div class="header-menu-nav-item-content">
+                    <?php echo $BRANDS ?>                </div>
+                </a>
+              </div>
+            
+          
+        
+      
+        
+          
+            
+              <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                <a href="https://trioseopecahterus.pages.dev/amp/">
+                  <div class="header-menu-nav-item-content">
+                    DAFTAR
+                  </div>
+                </a>
+              </div>
+            
+          
+        
+      
+        
+          
+            
+              <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active header-menu-nav-item--homepage">
+                <a href="https://trioseopecahterus.pages.dev/amp/" aria-current="page">
+                  <div class="header-menu-nav-item-content">
+                    LOGIN
+                  </div>
+                </a>
+              </div>
+            
+          
+  
+  </div>
+  
+                
+              </div>
+              
+                <div class="header-menu-actions social-accounts">
+                  
+                    
+                      <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                        <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://instagram.com" target="_blank" aria-label="Instagram">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    
+                      <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                        <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://twitter.com" target="_blank" aria-label="Twitter">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    
+                      <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                        <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://tiktok.com" target="_blank" aria-label="TikTok">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#tiktok-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    
+                      <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                        <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://facebook.com" target="_blank" aria-label="Facebook">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    
+                      <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                        <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://youtube.com" target="_blank" aria-label="YouTube">
+                          <svg viewBox="23 23 64 64">
+                            <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    
+                  
+                </div>
+              
+              
+              
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+  
+  
+  
+  
+        <main id="page" class="container" role="main">
+          
+            
+  <article class="sections" id="sections" data-page-sections="660d5c677b67070328ef15a1">
+  
+  <section data-test="page-section" data-section-theme="light" class='page-section 
+      
+        content-collection
+        full-bleed-section
+        collection-type-products
+      
+      background-width--full-bleed
+      
+        section-height--medium
+      
+      
+        content-width--wide
+      
+      horizontal-alignment--center
+      vertical-alignment--middle
+      
+        
+      
+      
+      light' data-section-id="660d5c677b67070328ef15a3" data-controller="SectionWrapperController" data-current-styles="{
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+      &quot;customSectionHeight&quot;: 10,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 50,
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }" data-current-context="{
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;products&quot;
+    }" data-animation="none">
+    <div class="section-border">
+      <div class="section-background">
+      
+        
+      
+      </div>
+    </div>
+    <div class='content-wrapper' style='
+        
+        
+      '>
+      <div class="content">
+        
+        
+        
+        
+        
+        
+        
+  <section id="pdp" class="
+      products
+      collection-content-wrapper
+      product-layout-side-by-side
+    ">
+    
+  
+  
+  
+    
+    
+    
+  
+    <article class="ProductItem hentry author-karen-laurence post-type-store-item" data-item-id="660d5c677b67070328ef1518">
+  
+      <nav class="ProductItem-nav">
+    <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+      <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="ProductItem-nav-breadcrumb-link">Shop</a>
+      <spanclass="ProductItem-nav-breadcrumb-separator"></span>
+      <a href="https://cwiescitech.dusit.ac.th/wp-content/product/?slot=<?php echo $BRANDS ?>" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya</a></div>
+    
+    
+    
+  </nav>
+  
+  
+      <section class="ProductItem-summary" data-controller="ProductGallery">
+        <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+    
+      <div class="ProductItem-gallery-scroll">
+        <div aria-label="Gallery thumbnails" class="ProductItem-gallery-thumbnails" data-animation-role="image" role="group">
+          
+          
+            <button class="ProductItem-gallery-thumbnails-item" aria-label="Image 1 of 2" data-product-gallery="thumbnails-item">
+              <img class="ProductItem-gallery-thumbnails-item-image" data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery-thumbnail"/>
+            </button>
+          
+            <button class="ProductItem-gallery-thumbnails-item" aria-label="Image 2 of 2" data-product-gallery="thumbnails-item">
+              <img class="ProductItem-gallery-thumbnails-item-image" data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="lauren-winter-sonia-skirt-grey_DETAIL.jpg" elementtiming="nbf-products-gallery-thumbnail"/>
+            </button>
+          
+        </div>
+      </div>
+    
+    
+      <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+        
+          <div class="ProductItem-gallery-carousel-controls enable-on-first-image-load" data-first-img-load>
+            <button class="
+                product-item-gallery-carousel-control
+                ProductItem-gallery-prev
+              " data-product-gallery="prev" aria-label="Previous">
+            </button>
+            <button class="
+                product-item-gallery-carousel-control
+                ProductItem-gallery-next
+              " data-product-gallery="next" aria-label="Next">
+            </button>
+          </div>
+          <div class="ProductItem-gallery-current-slide-indicator enable-on-first-image-load" data-first-img-load data-product-gallery="indicator">
+          </div>
+        
+        
+          
+            <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=660d5c677b67070328ef151a data-controller="ImageZoom" data-slide-url="bkcco4ek9tctk7jomutrnm31vbhwqr-846s8-z8z36" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+              <img aria-describedby="ProductItem-gallery-slides-item-1-index-660d5c677b67070328ef151a" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery"/>
+              <span id="ProductItem-gallery-slides-item-1-index-660d5c677b67070328ef151a" style="display: none;">
+                Image 1 of 2
+              </span>
+              <div class="product-image-zoom-duplicate" aria-hidden="true">
+                <img data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery-zoom"/>
+              </div>
+            </div>
+          
+          
+        
+          
+            <div class="ProductItem-gallery-slides-item" data-slide-index="2" data-image-id=660d5c677b67070328ef151d data-controller="ImageZoom" data-slide-url="vw0inh5pzjwbyon1nbz1ahsmvwvu7f-e3r6t-9cmbl" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+              <img aria-describedby="ProductItem-gallery-slides-item-2-index-660d5c677b67070328ef151d" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="lauren-winter-sonia-skirt-grey_DETAIL.jpg" elementtiming="nbf-products-gallery"/>
+              <span id="ProductItem-gallery-slides-item-2-index-660d5c677b67070328ef151d" style="display: none;">
+                Image 2 of 2
+              </span>
+              <div class="product-image-zoom-duplicate" aria-hidden="true">
+                <img data-load="false" data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="lauren-winter-sonia-skirt-grey_DETAIL.jpg" elementtiming="nbf-products-gallery-zoom"/>
+              </div>
+            </div>
+          
+          
+        
+        <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
+          <div class="gallery-lightbox " data-section-theme="">
+    <div class="gallery-lightbox-background"></div>
+  
+  <div class="gallery-lightbox-header">
+    <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+      <div class="gallery-lightbox-close-btn-icon">
+        <svg viewBox="0 0 40 40">
+          <path d="M4.3,35.7L35.7,4.3"/>
+          <path d="M4.3,4.3l31.4,31.4"/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  
+  
+    <div class="gallery-lightbox-wrapper">
+      <div class="gallery-lightbox-list">
+        
+        <figure class="gallery-lightbox-item" data-slide-url="bkcco4ek9tctk7jomutrnm31vbhwqr-846s8-z8z36">
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div class="gallery-lightbox-item-img content-fit">
+                <img data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" data-load="false" elementtiming="nbf-product-lightbox"/>
+              </div>
+            </div>
+          </div>
+        </figure>
+        
+        <figure class="gallery-lightbox-item" data-slide-url="vw0inh5pzjwbyon1nbz1ahsmvwvu7f-e3r6t-9cmbl">
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div class="gallery-lightbox-item-img content-fit">
+                <img data-src="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image="https://th.bing.com/th/id/OIG4.5CSTu_JXogxCmM884c7M?w=1024&h=1024&rs=1&pid=ImgDetMain" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="lauren-winter-sonia-skirt-grey_DETAIL.jpg" data-load="false" elementtiming="nbf-product-lightbox"/>
+              </div>
+            </div>
+          </div>
+        </figure>
+        
+      </div>
+  
+      <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+    <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+      <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+        <div class="gallery-lightbox-control-btn-icon">
+          <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+            <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+          </svg>
+        </div>
+      </button>
+    </div>
+    <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+      <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+        <div class="gallery-lightbox-control-btn-icon">
+          <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+            <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+          </svg>
+        </div>
+      </button>
+    </div>
+  </div>
+  
+    </div>
+  </div>
+        </div>
+      </div>
+    
+  </section>
+  
+        <section class="
+      product-details
+      ProductItem-details
+    " data-test="pdp-details">
+    <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+      <?php echo $BRANDS ?> Daftar Link Situs Agen JP <?php echo $BRANDS ?> Resmi Terbaru Gampang Menang Terpercaya  </h1>
+    <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+      
+      <div class="ProductItem-product-price" data-animation-role="content">
+        
+  
+  <a href="https://trioseopecahterus.pages.dev/amp/" target="_blank"><img src="https://xn--mgbaaaadj6a3c2c4gfdbk4f.site/assets/Gado2/gif/daftar-gratis-<?php echo $BRANDS ?>.gif" alt="<?php echo $BRANDS ?>" width="100%" height="100%" data-pagespeed-url-hash="1939965360" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-pagespeed-url-hash="1939965360" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+  <div class="product-price">
+  IDR 50.00
+  </div>
+  
+        
+          
+  <div data-afterpay="true" data-current-context="{
+      &quot;660d5c677b67070328ef1518&quot;: {
+        &quot;scarcityEnabled&quot;: false,
+        &quot;scarcityShownByDefault&quot;: false,
+        &quot;afterPayAvailable&quot;: false,
+        &quot;klarnaAvailable&quot;: false,
+        &quot;shopperLanguage&quot;: &quot;en&quot;,
+        &quot;afterPayMin&quot;: 0,
+        &quot;afterPayMax&quot;: 0,
+        &quot;klarnaMin&quot;: 0,
+        &quot;klarnaMax&quot;: 0,
+        &quot;mailingListSignUpEnabled&quot;: false,
+        &quot;mailingListOptInByDefault&quot;: false
+      }
+    }"></div>
+  <div class="pdp-overlay"></div>
+   
+      </div>
+      
+        <div class="ProductItem-details-excerpt" data-content-field="excerpt">
+          <pre><code>DESCRIPTION</code></pre><p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> merupakan situs agen <?php echo $BRANDS ?> Resmi Terbaru Hari Ini yang mudah dapat maxwin pada game slot online, <?php echo $BRANDS ?> menyediakan berbagai macam permainan Slot Online dan RTP Tinggi 98%</p></pre>
+    <div class="product-variants" data-item-id="660d5c677b67070328ef1518" data-variants="[{&quot;attributes&quot;:{&quot;Size&quot;:&quot;0&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;Size&quot;,&quot;value&quot;:&quot;0&quot;}],&quot;id&quot;:&quot;9da774c3-50da-42d2-aa47-ef575ec57ca2&quot;,&quot;sku&quot;:&quot;SQ4362620&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;Size&quot;:&quot;2&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;Size&quot;,&quot;value&quot;:&quot;2&quot;}],&quot;id&quot;:&quot;49f82b66-8f3d-41b8-a26f-af4b6d07b3ec&quot;,&quot;sku&quot;:&quot;SQ0357750&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:false,&quot;qtyInStock&quot;:4,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;Size&quot;:&quot;4&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;Size&quot;,&quot;value&quot;:&quot;4&quot;}],&quot;id&quot;:&quot;bc23cba5-c88b-440d-b7a9-77ecb0ec5f6f&quot;,&quot;sku&quot;:&quot;SQ8501677&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;Size&quot;:&quot;6&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;Size&quot;,&quot;value&quot;:&quot;6&quot;}],&quot;id&quot;:&quot;9a6e7714-1c66-4b24-9abe-4f7a93936941&quot;,&quot;sku&quot;:&quot;SQ4341270&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;Size&quot;:&quot;8&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;Size&quot;,&quot;value&quot;:&quot;8&quot;}],&quot;id&quot;:&quot;54d672c7-8b94-4b18-82eb-8207d3104eab&quot;,&quot;sku&quot;:&quot;SQ3858862&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:false,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0}]" data-animation-role="content">
+      <div class="variant-option">
+      <div class="variant-option-title">Size: </div>
+      <div class="variant-select-wrapper">
+        <select aria-label="Select Size" data-variant-option-name="Size">
+          <option value="">Select Size</option>
+          <option value="0">0</option><option value="2">2</option><option value="4">4</option><option value="6">6</option><option value="8">8</option>
+        </select>
+      </div>
+      <div class="variant-radiobtn-wrapper" data-variant-option-name="Size">
+        <input type="radio" class="variant-radiobtn" value="0" name="variant-option-Size" id="variant-option-Size-0"/>
+        <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-Size-0">0</label>
+        <input type="radio" class="variant-radiobtn" value="2" name="variant-option-Size" id="variant-option-Size-2"/>
+        <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-Size-2">2</label>
+        <input type="radio" class="variant-radiobtn" value="4" name="variant-option-Size" id="variant-option-Size-4"/>
+        <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-Size-4">4</label>
+        <input type="radio" class="variant-radiobtn" value="6" name="variant-option-Size" id="variant-option-Size-6"/>
+        <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-Size-6">6</label>
+        <input type="radio" class="variant-radiobtn" value="8" name="variant-option-Size" id="variant-option-Size-8"/>
+        <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-Size-8">8</label>
+      </div>
+      </div>
+    </div>
+  
+  <div class="product-quantity-input" data-item-id="660d5c677b67070328ef1518" data-animation-role="content">
+    <div class="quantity-label">Quantity:</div>
+    <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+  </div>
+  
+  <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+    <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="660d5c677b67070328ef14fa" data-item-id="660d5c677b67070328ef1518" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+      <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+    </div>
+  </div>
+      
+    </div>
+  </section>
+  
+      </section>
+  
+      
+        <section class="ProductItem-additional">
+          <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Post Body" data-type="item" id="item-660d5c677b67070328ef1518"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+        </section>
+  
+    </article>
+  
+  
+  
+  </section>
+      </div>
+    
+    </div></section>
+  
+    
+  </article>
+  
+  
+            
+  
+            
+            
+          
+        </main>
+        <script type="text/javascript">const firstSection=document.querySelector('.page-section');const header=document.querySelector('.header');const mobileOverlayNav=document.querySelector('.header-menu');const sectionBackground=firstSection?firstSection.querySelector('.section-background'):null;const headerHeight=header?header.getBoundingClientRect().height:0;const firstSectionHasBackground=firstSection?firstSection.className.indexOf('has-background')>=0:false;const isFirstSectionInset=firstSection?firstSection.className.indexOf('background-width--inset')>=0:false;const isLayoutEngineSection=firstSection?firstSection.className.indexOf('layout-engine-section')>=0:false;if(firstSection){firstSection.style.paddingTop=headerHeight+'px';}if(sectionBackground&&isLayoutEngineSection){if(isFirstSectionInset){sectionBackground.style.top=headerHeight+'px';}else{sectionBackground.style.top='';}}</script>
+  
+        
+          <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  <section data-test="page-section" data-section-theme="light" class='page-section 
+      
+        full-bleed-section
+        layout-engine-section
+      
+      background-width--full-bleed
+      
+        section-height--small
+      
+      
+        content-width--wide
+      
+      horizontal-alignment--center
+      vertical-alignment--middle
+      
+        
+      
+      
+      light' data-section-id="660d5c4777b3f814dddb49d7" data-controller="SectionWrapperController" data-current-styles="{
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+      &quot;customSectionHeight&quot;: 25,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 50,
+      &quot;sectionTheme&quot;: &quot;light&quot;,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }" data-current-context="{
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: {
+        &quot;type&quot;: &quot;none&quot;
+      },
+      &quot;divider&quot;: {
+        &quot;enabled&quot;: false
+      },
+      &quot;typeName&quot;: &quot;products&quot;
+    }" data-animation="none" data-fluid-engine-section>
+    <div class="section-border">
+      <div class="section-background">
+      
+        
+      
+      </div>
+    </div>
+    <div class='content-wrapper' style='
+        
+          
+        
+      '>
+      <div class="content">
+        
+        
+        
+        
+        
+        
+        <div data-fluid-engine="true"><style>.fe-660d5c4777b3f814dddb49d6{--grid-gutter:calc(var(--sqs-mobile-site-gutter,6vw) - 11.0px);--cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );display:grid;position:relative;grid-area: 1/1/-1/-1;grid-template-rows:repeat(12,minmax(24px,auto));grid-template-columns:minmax(var(--grid-gutter),1fr) repeat(8,minmax(0,var(--cell-max-width))) minmax(var(--grid-gutter),1fr);row-gap:11.0px;column-gap:11.0px}@media (min-width:768px){.background-width--inset .fe-660d5c4777b3f814dddb49d6{--inset-padding: calc(var(--sqs-site-gutter) * 2)}.fe-660d5c4777b3f814dddb49d6{--grid-gutter:calc(var(--sqs-site-gutter,4vw) - 11.0px);--cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );--inset-padding:0;--row-height-scaling-factor:.0215;--container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));grid-template-rows: repeat(12,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));grid-template-columns:minmax(var(--grid-gutter),1fr) repeat(24,minmax(0,var(--cell-max-width))) minmax(var(--grid-gutter),1fr)}}.fe-block-a8d1124b99b49970a5ae{grid-area: 1/2/3/10;z-index:0;@media (max-width: 767px) {
+        
+      }
+    }.fe-block-a8d1124b99b49970a5ae .sqs-block{justify-content:flex-start}.fe-block-a8d1124b99b49970a5ae .sqs-block-alignment-wrapper{align-items:flex-start}@media (min-width:768px){.fe-block-a8d1124b99b49970a5ae{grid-area: 3/7/5/21;z-index:0}.fe-block-a8d1124b99b49970a5ae .sqs-block{justify-content:flex-start}.fe-block-a8d1124b99b49970a5ae .sqs-block-alignment-wrapper{align-items:flex-start}}.fe-block-59d669d1faff0ba880a2{grid-area: 3/2/12/10;z-index:1;@media (max-width: 767px) {
+        
+      }
+    }.fe-block-59d669d1faff0ba880a2 .sqs-block{justify-content:flex-start}.fe-block-59d669d1faff0ba880a2 .sqs-block-alignment-wrapper{align-items:flex-start}@media (min-width:768px){.fe-block-59d669d1faff0ba880a2{grid-area: 5/2/11/26;z-index:1}.fe-block-59d669d1faff0ba880a2 .sqs-block{justify-content:flex-start}.fe-block-59d669d1faff0ba880a2 .sqs-block-alignment-wrapper{align-items:flex-start}}.fe-block-b2f932cac5df57a4b641{grid-area: 11/2/13/10;z-index:2;@media (max-width: 767px) {
+        
+      }
+    }.fe-block-b2f932cac5df57a4b641 .sqs-block{justify-content:flex-start}.fe-block-b2f932cac5df57a4b641 .sqs-block-alignment-wrapper{align-items:flex-start}@media (min-width:768px){.fe-block-b2f932cac5df57a4b641{grid-area: 11/2/13/26;z-index:2}.fe-block-b2f932cac5df57a4b641 .sqs-block{justify-content:flex-start}.fe-block-b2f932cac5df57a4b641 .sqs-block-alignment-wrapper{align-items:flex-start}}</style><div class="fluid-engine fe-660d5c4777b3f814dddb49d6"><div class="fe-block fe-block-a8d1124b99b49970a5ae"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-a8d1124b99b49970a5ae"><div class="sqs-block-content">
+  
+  
+  
+  <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color- social-icons-size-small social-icons-style-regular ">
+    <style>#block-a8d1124b99b49970a5ae .social-icons-style-border .sqs-svg-icon--wrapper{box-shadow:0 0 0 2px inset;border:none}</style>
+    <nav class="sqs-svg-icon--list">
+      <a href="https://instagram.com" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+        <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+            <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+            <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://twitter.com" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+        <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+            <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+            <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://tiktok.com" target="_blank" class="sqs-svg-icon--wrapper tiktok-unauth" aria-label="TikTok">
+        <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+            <use class="sqs-use--icon" xlink:href="#tiktok-unauth-icon"></use>
+            <use class="sqs-use--mask" xlink:href="#tiktok-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://facebook.com" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Facebook">
+        <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+            <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+            <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://youtube.com" target="_blank" class="sqs-svg-icon--wrapper youtube-unauth" aria-label="YouTube">
+        <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+            <use class="sqs-use--icon" xlink:href="#youtube-unauth-icon"></use>
+            <use class="sqs-use--mask" xlink:href="#youtube-unauth-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </nav>
+  </div>
+  </div></div></div><div class="fe-block fe-block-59d669d1faff0ba880a2"><div class="sqs-block newsletter-block sqs-block-newsletter" data-blend-mode="NORMAL" data-block-type="51" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-59d669d1faff0ba880a2"><div class="sqs-block-content">
+  
+  <div class="newsletter-form-wrapper
+    
+    newsletter-form-wrapper--layoutFloat
+    newsletter-form-wrapper--alignCenter
+    
+    ">
+    <form class="newsletter-form" data-form-id="660d5c4777b3f814dddb49d4" autocomplete="on" method="POST" novalidate onsubmit="return (function (form) {
+      Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+        (new Y.Squarespace.FormSubmit(form)).submit({
+          formId: '660d5c4777b3f814dddb49d4',
+          collectionId: '660d5c677b67070328ef14fa',
+          objectName: '59d669d1faff0ba880a2'
+        });
+      });
+      return false;
+    })(this);">
+      <header class="newsletter-form-header">
+        <h2><?php echo $BRANDS ?></h2>
+        <div class="newsletter-form-header-description"><p class="">SEGERA MAINKAN <?php echo $BRANDS ?> DI SITUS KAMI</p></div>
+      </header>
+      <div class="newsletter-form-body">
+        <div class="newsletter-form-fields-wrapper form-fields" style="vertical-align: middle;">
+          
+          
+            
+              <div id="email-yui_3_17_2_1_1561398083951_4704" class="newsletter-form-field-wrapper form-item field email required" style="vertical-align: bottom;">
+                <label class="newsletter-form-field-label title" for="email-yui_3_17_2_1_1561398083951_4704-field">Email Address</label>
+                <input id="email-yui_3_17_2_1_1561398083951_4704-field" class="newsletter-form-field-element field-element" name="email" x-autocompletetype="email" autocomplete="email" type="email" spellcheck="false" placeholder="Email Address"/>
+              </div>
+            
+          
+            
+          
+        </div>
+        <div data-animation-role="button" class="newsletter-form-button-wrapper submit-wrapper" style="vertical-align: middle;">
+          <button class="
+              newsletter-form-button
+              sqs-system-button
+              sqs-editable-button-layout
+              sqs-editable-button-style
+              sqs-editable-button-shape
+              sqs-button-element--primary
+            " type="submit" value="Sign Up">
+            <span class="newsletter-form-spinner sqs-spin light large"></span>
+            <span class="newsletter-form-button-label">DAFTAR</span>
+            <span class="newsletter-form-button-icon"></span>
+          </button>
+        </div>
+        
+          
+          <div class="captcha-container sqs-form-rendered
+            
+            align-center
+            
+            " data-theme="light"></div>
+          
+        
+      </div>
+      <div class="newsletter-form-footnote"></div>
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+  </div></div></div><div class="fe-block fe-block-b2f932cac5df57a4b641"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b2f932cac5df57a4b641"><div class="sqs-block-content">
+  
+  <div class="sqs-html-content">
+    <p style="text-align:center;white-space:pre-wrap;" class="">Made with <a href="http://squarespace.com" target="_blank">Squarespace</a></p>
+  </div>
+  </div></div></div></div></div>
+      </div>
+    
+    </div>
+    
+  </section>
+  
+    
+  </footer>
+  
+        
+      </div>
+  
+      <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.ae590dcc1b5c07b64253fee4848b19da.js" type="text/javascript"></script>
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="tiktok-unauth-icon" viewBox="0 0 64 64"><path d="M37.9281 17C38.4298 21.2545 40.825 23.7941 45 24.0658V28.8451C42.5859 29.0794 40.4652 28.3016 38.0038 26.821V35.7423C38.0038 47.147 25.4788 50.7361 20.4233 42.5457C17.1856 37.3073 19.1642 28.1048 29.5496 27.73V32.781C28.7296 32.9058 27.9219 33.1002 27.1355 33.362C24.835 34.1398 23.5191 35.583 23.8883 38.1413C24.5889 43.033 33.6584 44.4856 32.901 34.9176V17H37.9091H37.9281Z"/></symbol><symbol id="tiktok-unauth-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0V64H64V0ZM45.44 23.54C41 23.25 38.5 20.54 38 16H32.68V35.12C33.48 45.33 23.9 43.78 23.16 38.56C22.78 35.83 24.16 34.29 26.6 33.46C27.4272 33.1806 28.2771 32.9732 29.14 32.84V27.45C18.18 27.85 16.08 37.67 19.5 43.26C24.82 52 38.05 48.17 38.05 36V26.48C40.65 28.06 42.89 28.89 45.44 28.64V23.54Z"/></symbol><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol></svg>
+  
     </body>
-    
-    </html>
+  </html>
+  
